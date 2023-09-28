@@ -1,0 +1,844 @@
+Player,Team,Conference,Date,Position,Height,Weight,Age,Draft Year,Seasons in league,Season short,Pre-draft Team,Height CM,Weight KG,Rings
+Norman Powell,Toronto Raptors,East,2013-07-20,SG,6'4,215,26,2015,4,2020,UCLA,193,97,true
+LeBron James,Los Angeles Lakers,West,1994-02-28,F,6'8,250,35,2003,16,2020,St. Vincent St. Mary High School (Ohio),203,113,false
+Giannis Antetokounmpo,Milwaukee Bucks,East,1989-05-14,F,6'11,242,25,2013,6,2020,Filathlitikos Div II Greece (Greece),211,109,false
+Kristaps Porzingis,Dallas Mavericks,West,1984-10-06,FC,7'3,240,24,2015,4,2020,Real Betis Energia Plus (Spain),221,108,false
+Jayson Tatum,Boston Celtics,East,2001-03-09,SF,6'8,208,21,2017,2,2020,Duke,203,94,false
+Nikola Jokic,Denver Nuggets,West,1999-10-19,C,7'0,250,25,2014,4,2020,KK Mega Bemax (Serbia),213,113,true
+Jaylen Brown,Boston Celtics,East,1981-10-04,SF,6'7,220,23,2016,3,2020,California,201,99,false
+Damian Lillard,Portland Trail Blazers,West,2021-01-21,G,6'3,195,29,2012,7,2020,Weber State,190,88,true
+Pascal Siakam,Toronto Raptors,East,1997-08-15,F,6'9,230,25,2016,3,2020,New Mexico State,206,104,true
+Damian Lillard,Portland Trail Blazers,West,2006-05-05,G,6'3,195,29,2012,7,2020,Weber State,190,88,false
+Ben Simmons,Philadelphia Sixers,East,2002-07-12,PF,6'10,230,23,2016,3,2020,LSU,208,104,false
+Kawhi Leonard,Los Angeles Clippers,West,2015-08-01,F,6'7,230,28,2011,8,2020,San Diego State,201,104,true
+Josh Richardson,Philadelphia Sixers,East,2006-12-14,G,6'6,200,26,2015,4,2020,Tennessee,198,90,false
+DeMar DeRozan,San Antonio Spurs,West,1988-01-01,GF,6'7,220,30,2009,10,2020,USC,201,99,false
+Giannis Antetokounmpo,Milwaukee Bucks,East,2008-01-02,F,6'11,242,25,2013,6,2020,Filathlitikos Div II Greece (Greece),211,109,false
+LeBron James,Los Angeles Lakers,West,1980-07-02,F,6'8,250,35,2003,16,2020,St. Vincent St. Mary High School (Ohio),203,113,false
+Jaylen Brown,Boston Celtics,East,2013-09-09,SF,6'7,220,23,2016,3,2020,California,201,99,false
+Brandon Ingram,New Orleans Pelicans,West,1997-10-12,SF,6'9,190,22,2016,3,2020,Duke,206,86,true
+Kyle Lowry,Toronto Raptors,East,2004-05-11,PG,6'1,196,33,2006,13,2020,Villanova,185,88,false
+Dennis Schroder,Oklahoma City Thunder,West,1990-06-05,PG,6'1,172,26,2013,6,2020,Basketball Lowen Braunschweig (Germany),185,78,true
+Bam Adebayo,Miami Heat,East,1988-05-30,C,6'10,255,22,2017,2,2020,Kentucky,208,115,false
+LeBron James,Los Angeles Lakers,West,1988-05-07,F,6'8,250,35,2003,16,2020,St. Vincent St. Mary High School (Ohio),203,113,false
+Jimmy Butler,Miami Heat,East,2016-04-26,GF,6'8,232,30,2011,8,2020,Marquette,203,105,true
+Anthony Davis,Los Angeles Lakers,West,1990-12-06,PF,6'10,253,26,2012,7,2020,Kentucky,208,114,true
+Giannis Antetokounmpo,Milwaukee Bucks,East,2008-11-17,F,6'11,242,25,2013,6,2020,Filathlitikos Div II Greece (Greece),211,109,false
+Carmelo Anthony,Portland Trail Blazers,West,1984-12-12,F,6'8,240,35,2003,16,2020,Syracuse,203,108,true
+Spencer Dinwiddie,Brooklyn Nets,East,2014-05-07,PG,6'6,210,26,2014,5,2020,Colorado,198,95,false
+Luka Doncic,Dallas Mavericks,West,2011-07-10,SF,6'7,218,21,2018,1,2020,Real Madrid (Spain),201,98,false
+Nikola Vucevic,Orlando Magic,East,1995-09-05,PF,7'0,260,29,2011,8,2020,USC,213,118,false
+James Harden,Houston Rockets,West,2011-07-22,SG,6'5,220,30,2009,10,2020,Arizona State,196,99,true
+Pascal Siakam,Toronto Raptors,East,1999-06-10,F,6'9,230,25,2016,3,2020,New Mexico State,206,104,false
+James Harden,Houston Rockets,West,1998-11-04,SG,6'5,220,30,2009,10,2020,Arizona State,196,99,false
+Giannis Antetokounmpo,Milwaukee Bucks,East,1989-05-28,F,6'11,242,25,2013,6,2020,Filathlitikos Div II Greece (Greece),211,109,true
+Anthony Davis,Los Angeles Lakers,West,1994-07-10,PF,6'10,253,26,2012,7,2020,Kentucky,208,114,false
+Trae Young,Atlanta Hawks,East,2018-09-04,PG,6'2,180,21,2018,1,2020,Oklahoma,188,81,true
+Karl-Anthony Towns,Minnesota Timberwolves,West,2007-05-19,C,7'0,248,24,2015,4,2020,Kentucky,213,112,true
+Kemba Walker,Charlotte Hornets,East,2020-02-11,G,6'1,184,28,2011,7,2019,Connecticut,185,83,true
+Russell Westbrook,Oklahoma City Thunder,West,2014-02-16,G,6'3,200,30,2008,10,2019,UCLA,190,90,false
+Andre Drummond,Detroit Pistons,East,2017-03-31,C,6'11,279,25,2012,6,2019,Connecticut,211,126,true
+Damian Lillard,Portland Trail Blazers,West,1981-05-07,G,6'3,195,28,2012,6,2019,Weber State,190,88,false
+Trae Young,Atlanta Hawks,East,1998-06-17,PG,6'2,180,20,2018,0,2019,Oklahoma,188,81,true
+James Harden,Houston Rockets,West,1986-01-25,SG,6'5,220,29,2009,9,2019,Arizona State,196,99,false
+Bradley Beal,Washington Wizards,East,2003-08-01,SG,6'3,207,25,2012,6,2019,Florida,190,93,false
+Rudy Gobert,Utah Jazz,West,2021-05-15,C,7'1,245,26,2013,5,2019,Cholet Basket (France),216,111,true
+Andre Drummond,Detroit Pistons,East,1993-05-21,C,6'11,279,25,2012,6,2019,Connecticut,211,126,false
+Mike Conley,Memphis Grizzlies,West,1982-04-18,PG,6'1,175,31,2007,11,2019,Ohio State,185,79,true
+Ben Simmons,Philadelphia Sixers,East,1982-01-09,PF,6'10,230,22,2016,2,2019,LSU,208,104,true
+Donovan Mitchell,Utah Jazz,West,2016-07-10,SG,6'3,215,22,2017,1,2019,Louisville,190,97,true
+Bojan Bogdanovic,Indiana Pacers,East,2013-04-17,F,6'8,216,29,2011,4,2019,KK Cibona (Croatia),203,98,false
+Paul George,Oklahoma City Thunder,West,2015-09-21,GF,6'9,220,28,2010,8,2019,Fresno State,206,99,true
+Giannis Antetokounmpo,Milwaukee Bucks,East,2003-08-14,F,6'11,242,24,2013,5,2019,Filathlitikos Div II Greece (Greece),211,109,false
+Nikola Jokic,Denver Nuggets,West,2001-03-19,C,7'0,250,24,2014,3,2019,KK Mega Bemax (Serbia),213,113,false
+Giannis Antetokounmpo,Milwaukee Bucks,East,2004-02-14,F,6'11,242,24,2013,5,2019,Filathlitikos Div II Greece (Greece),211,109,true
+Paul George,Oklahoma City Thunder,West,2020-11-04,GF,6'9,220,28,2010,8,2019,Fresno State,206,99,false
+D'Angelo Russell,Brooklyn Nets,East,2012-10-12,SG,6'5,198,23,2015,3,2019,Ohio State,196,89,false
+James Harden,Houston Rockets,West,1992-09-23,SG,6'5,220,29,2009,9,2019,Arizona State,196,99,true
+Kawhi Leonard,Toronto Raptors,East,2000-05-12,F,6'7,230,27,2011,7,2019,San Diego State,201,104,false
+Donovan Mitchell,Utah Jazz,West,2008-05-25,SG,6'3,215,22,2017,1,2019,Louisville,190,97,true
+Joel Embiid,Philadelphia Sixers,East,1980-07-29,C,7'0,250,24,2014,4,2019,Kansas,213,113,true
+Nikola Jokic,Denver Nuggets,West,2017-06-26,C,7'0,250,24,2014,3,2019,KK Mega Bemax (Serbia),213,113,false
+Giannis Antetokounmpo,Milwaukee Bucks,East,2014-08-17,F,6'11,242,24,2013,5,2019,Filathlitikos Div II Greece (Greece),211,109,false
+James Harden,Houston Rockets,West,2002-03-25,SG,6'5,220,29,2009,9,2019,Arizona State,196,99,false
+Giannis Antetokounmpo,Milwaukee Bucks,East,2008-01-07,F,6'11,242,24,2013,5,2019,Filathlitikos Div II Greece (Greece),211,109,true
+Paul George,Oklahoma City Thunder,West,2004-05-16,GF,6'9,220,28,2010,8,2019,Fresno State,206,99,false
+Thaddeus Young,Indiana Pacers,East,2014-08-07,F,6'8,221,30,2007,11,2019,Georgia Tech,203,100,false
+James Harden,Houston Rockets,West,2020-09-25,SG,6'5,220,29,2009,9,2019,Arizona State,196,99,false
+Bradley Beal,Washington Wizards,East,2008-08-23,SG,6'3,207,25,2012,6,2019,Florida,190,93,false
+Stephen Curry,Golden State Warriors,West,1992-02-18,G,6'3,190,30,2009,9,2019,Davidson,190,86,false
+Kawhi Leonard,Toronto Raptors,East,2018-09-18,F,6'7,230,27,2011,7,2019,San Diego State,201,104,false
+Paul Millsap,Denver Nuggets,West,1982-09-04,FC,6'8,246,34,2006,12,2019,Louisiana Tech,203,111,false
+Giannis Antetokounmpo,Milwaukee Bucks,East,2003-04-18,F,6'11,242,24,2013,5,2019,Filathlitikos Div II Greece (Greece),211,109,false
+Tobias Harris,Los Angeles Clippers,West,1992-10-27,F,6'9,235,26,2011,7,2019,Tennessee,206,106,true
+Nikola Vucevic,Orlando Magic,East,1990-01-23,PF,7'0,260,28,2011,7,2019,USC,213,118,true
+Anthony Davis,New Orleans Pelicans,West,1983-07-15,PF,6'10,253,25,2012,6,2019,Kentucky,208,114,false
+Pascal Siakam,Toronto Raptors,East,2001-11-14,F,6'9,230,24,2016,2,2019,New Mexico State,206,104,true
+C.J. McCollum,Portland Trail Blazers,West,2014-06-29,G,6'3,190,27,2013,5,2019,Lehigh,190,86,false
+Victor Oladipo,Indiana Pacers,East,1989-06-28,G,6'4,210,26,2013,5,2019,Indiana,193,95,true
+Russell Westbrook,Oklahoma City Thunder,West,2019-11-18,G,6'3,200,30,2008,10,2019,UCLA,190,90,true
+Giannis Antetokounmpo,Milwaukee Bucks,East,2007-10-14,F,6'11,242,24,2013,5,2019,Filathlitikos Div II Greece (Greece),211,109,true
+Stephen Curry,Golden State Warriors,West,1992-02-21,G,6'3,190,30,2009,9,2019,Davidson,190,86,false
+Kemba Walker,Charlotte Hornets,East,2022-02-19,G,6'1,184,28,2011,7,2019,Connecticut,185,83,true
+Nikola Jokic,Denver Nuggets,West,1980-11-14,C,7'0,250,24,2014,3,2019,KK Mega Bemax (Serbia),213,113,false
+Ben Simmons,Philadelphia Sixers,East,1983-07-20,PF,6'10,230,21,2016,1,2018,LSU,208,104,false
+Nikola Jokic,Denver Nuggets,West,2015-09-17,C,7'0,250,23,2014,2,2018,KK Mega Bemax (Serbia),213,113,false
+Victor Oladipo,Indiana Pacers,East,1982-01-26,G,6'4,210,25,2013,4,2018,Indiana,193,95,true
+Damian Lillard,Portland Trail Blazers,West,2009-09-30,G,6'3,195,27,2012,5,2018,Weber State,190,88,false
+LeBron James,Cleveland Cavaliers,East,1980-05-09,F,6'8,250,33,2003,14,2018,St. Vincent St. Mary High School (Ohio),203,113,false
+LaMarcus Aldridge,San Antonio Spurs,West,2008-07-23,FC,6'11,265,32,2006,11,2018,Texas,211,120,false
+LeBron James,Cleveland Cavaliers,East,1983-10-04,F,6'8,250,33,2003,14,2018,St. Vincent St. Mary High School (Ohio),203,113,true
+Russell Westbrook,Oklahoma City Thunder,West,1986-06-03,G,6'3,200,29,2008,9,2018,UCLA,190,90,true
+DeMar DeRozan,Toronto Raptors,East,1994-11-20,GF,6'7,220,28,2009,8,2018,USC,201,99,false
+Damian Lillard,Portland Trail Blazers,West,2017-09-02,G,6'3,195,27,2012,5,2018,Weber State,190,88,true
+DeMar DeRozan,Toronto Raptors,East,2015-02-21,GF,6'7,220,28,2009,8,2018,USC,201,99,false
+Anthony Davis,New Orleans Pelicans,West,2009-01-20,PF,6'10,253,24,2012,5,2018,Kentucky,208,114,true
+Joel Embiid,Philadelphia Sixers,East,1993-12-10,C,7'0,250,23,2014,3,2018,Kansas,213,113,true
+James Harden,Houston Rockets,West,2006-08-10,SG,6'5,220,28,2009,8,2018,Arizona State,196,99,true
+Andre Drummond,Detroit Pistons,East,1982-07-13,C,6'11,279,24,2012,5,2018,Connecticut,211,126,false
+James Harden,Houston Rockets,West,2022-01-17,SG,6'5,220,28,2009,8,2018,Arizona State,196,99,true
+Khris Middleton,Milwaukee Bucks,East,2017-10-31,SF,6'8,222,26,2012,5,2018,Texas A&M,203,100,true
+Stephen Curry,Golden State Warriors,West,2002-03-09,G,6'3,190,29,2009,8,2018,Davidson,190,86,true
+Joel Embiid,Philadelphia Sixers,East,1988-09-19,C,7'0,250,23,2014,3,2018,Kansas,213,113,false
+Damian Lillard,Portland Trail Blazers,West,1986-10-21,G,6'3,195,27,2012,5,2018,Weber State,190,88,true
+Goran Dragic,Miami Heat,East,2003-09-22,G,6'3,190,31,2008,9,2018,Union Olimpija (Slovenia),190,86,true
+Lou Williams,Los Angeles Clippers,West,2009-03-03,G,6'1,175,31,2005,12,2018,South Gwinnett High School (Georgia),185,79,false
+DeMar DeRozan,Toronto Raptors,East,2013-09-04,GF,6'7,220,28,2009,8,2018,USC,201,99,true
+Stephen Curry,Golden State Warriors,West,1995-12-21,G,6'3,190,29,2009,8,2018,Davidson,190,86,false
+Bradley Beal,Washington Wizards,East,2015-02-09,SG,6'3,207,24,2012,5,2018,Florida,190,93,true
+Lou Williams,Los Angeles Clippers,West,1983-05-19,G,6'1,175,31,2005,12,2018,South Gwinnett High School (Georgia),185,79,true
+DeMar DeRozan,Toronto Raptors,East,1992-09-23,GF,6'7,220,28,2009,8,2018,USC,201,99,false
+Russell Westbrook,Oklahoma City Thunder,West,1983-03-15,G,6'3,200,29,2008,9,2018,UCLA,190,90,false
+LeBron James,Cleveland Cavaliers,East,2013-06-17,F,6'8,250,33,2003,14,2018,St. Vincent St. Mary High School (Ohio),203,113,true
+Chris Paul,Houston Rockets,West,1980-05-08,PG,6'0,175,32,2005,12,2018,Wake Forest,183,79,false
+Victor Oladipo,Indiana Pacers,East,2020-03-03,G,6'4,210,25,2013,4,2018,Indiana,193,95,true
+Kevin Durant,Golden State Warriors,West,2012-09-17,SF,6'9,240,29,2007,10,2018,Texas,206,108,false
+LeBron James,Cleveland Cavaliers,East,1986-01-04,F,6'8,250,33,2003,14,2018,St. Vincent St. Mary High School (Ohio),203,113,false
+James Harden,Houston Rockets,West,2010-02-18,SG,6'5,220,28,2009,8,2018,Arizona State,196,99,true
+Goran Dragic,Miami Heat,East,2012-11-14,G,6'3,190,31,2008,9,2018,Union Olimpija (Slovenia),190,86,false
+Anthony Davis,New Orleans Pelicans,West,1987-10-24,PF,6'10,253,24,2012,5,2018,Kentucky,208,114,true
+DeMar DeRozan,Toronto Raptors,East,2005-06-27,GF,6'7,220,28,2009,8,2018,USC,201,99,true
+Karl-Anthony Towns,Minnesota Timberwolves,West,1996-06-22,C,7'0,248,22,2015,2,2018,Kentucky,213,112,true
+Tobias Harris,Detroit Pistons,East,1983-05-08,F,6'9,235,25,2011,6,2018,Tennessee,206,106,true
+Nikola Jokic,Denver Nuggets,West,1999-02-19,C,7'0,250,23,2014,2,2018,KK Mega Bemax (Serbia),213,113,false
+Kristaps Porzingis,New York Knicks,East,1989-11-19,FC,7'3,240,22,2015,2,2018,Real Betis Energia Plus (Spain),221,108,false
+James Harden,Houston Rockets,West,1984-09-16,SG,6'5,220,28,2009,8,2018,Arizona State,196,99,true
+Victor Oladipo,Indiana Pacers,East,1996-09-14,G,6'4,210,25,2013,4,2018,Indiana,193,95,false
+DeMarcus Cousins,New Orleans Pelicans,West,1993-03-11,C,6'11,270,27,2010,7,2018,Kentucky,211,122,false
+Giannis Antetokounmpo,Milwaukee Bucks,East,1979-09-22,F,6'11,242,23,2013,4,2018,Filathlitikos Div II Greece (Greece),211,109,false
+James Harden,Houston Rockets,West,2001-03-13,SG,6'5,220,28,2009,8,2018,Arizona State,196,99,false
+Paul George,Indiana Pacers,East,1981-07-08,GF,6'9,220,26,2010,6,2017,Fresno State,206,99,true
+Russell Westbrook,Oklahoma City Thunder,West,1992-12-08,G,6'3,200,28,2008,8,2017,UCLA,190,90,false
+Jimmy Butler,Chicago Bulls,East,1994-01-27,GF,6'8,232,27,2011,5,2017,Marquette,203,105,false
+Stephen Curry,Golden State Warriors,West,2007-07-14,G,6'3,190,28,2009,7,2017,Davidson,190,86,false
+DeMar DeRozan,Toronto Raptors,East,2003-06-26,GF,6'7,220,27,2009,7,2017,USC,201,99,false
+James Harden,Houston Rockets,West,2021-10-05,SG,6'5,220,27,2009,7,2017,Arizona State,196,99,true
+Hassan Whiteside,Miami Heat,East,2003-02-23,C,7'1,265,27,2010,4,2017,Marshall,216,120,true
+Damian Lillard,Portland Trail Blazers,West,2004-03-26,G,6'3,195,26,2012,4,2017,Weber State,190,88,false
+John Wall,Washington Wizards,East,2014-07-28,PG,6'4,210,26,2010,6,2017,Kentucky,193,95,true
+Karl-Anthony Towns,Minnesota Timberwolves,West,2011-05-21,C,7'0,248,21,2015,1,2017,Kentucky,213,112,true
+Kemba Walker,Charlotte Hornets,East,2007-11-07,G,6'1,184,26,2011,5,2017,Connecticut,185,83,true
+Kawhi Leonard,San Antonio Spurs,West,2011-03-31,F,6'7,230,25,2011,5,2017,San Diego State,201,104,false
+LeBron James,Cleveland Cavaliers,East,2006-06-02,F,6'8,250,32,2003,13,2017,St. Vincent St. Mary High School (Ohio),203,113,false
+Blake Griffin,Los Angeles Clippers,West,2017-03-04,PF,6'10,250,27,2009,7,2017,Oklahoma,208,113,true
+Isaiah Thomas,Boston Celtics,East,1991-07-23,PG,5'9,185,28,2011,5,2017,Washington,175,83,false
+Stephen Curry,Golden State Warriors,West,1987-04-26,G,6'3,190,28,2009,7,2017,Davidson,190,86,false
+Dion Waiters,Miami Heat,East,1980-09-17,SG,6'4,215,25,2012,4,2017,Syracuse,193,97,false
+DeMarcus Cousins,Sacramento Kings,West,1987-10-24,C,6'11,270,26,2010,6,2017,Kentucky,211,122,false
+Joel Embiid,Philadelphia Sixers,East,2004-09-19,C,7'0,250,22,2014,2,2017,Kansas,213,113,false
+Kawhi Leonard,San Antonio Spurs,West,1986-03-16,F,6'7,230,25,2011,5,2017,San Diego State,201,104,true
+DeMar DeRozan,Toronto Raptors,East,2019-02-02,GF,6'7,220,27,2009,7,2017,USC,201,99,false
+Gordon Hayward,Utah Jazz,West,1992-03-28,GF,6'8,225,26,2010,6,2017,Butler,203,102,false
+Jimmy Butler,Chicago Bulls,East,2002-03-03,GF,6'8,232,27,2011,5,2017,Marquette,203,105,true
+Stephen Curry,Golden State Warriors,West,2013-09-11,G,6'3,190,28,2009,7,2017,Davidson,190,86,false
+John Wall,Washington Wizards,East,2019-03-27,PG,6'4,210,26,2010,6,2017,Kentucky,193,95,true
+James Harden,Houston Rockets,West,2011-12-16,SG,6'5,220,27,2009,7,2017,Arizona State,196,99,false
+Isaiah Thomas,Boston Celtics,East,2021-05-05,PG,5'9,185,28,2011,5,2017,Washington,175,83,false
+Russell Westbrook,Oklahoma City Thunder,West,2004-04-03,G,6'3,200,28,2008,8,2017,UCLA,190,90,false
+DeMar DeRozan,Toronto Raptors,East,1987-08-25,GF,6'7,220,27,2009,7,2017,USC,201,99,false
+James Harden,Houston Rockets,West,1980-07-16,SG,6'5,220,27,2009,7,2017,Arizona State,196,99,true
+LeBron James,Cleveland Cavaliers,East,1979-10-18,F,6'8,250,32,2003,13,2017,St. Vincent St. Mary High School (Ohio),203,113,false
+Marc Gasol,Memphis Grizzlies,West,2001-03-18,C,7'1,255,32,2007,8,2017,Sant Josep Girona (Spain),216,115,false
+Giannis Antetokounmpo,Milwaukee Bucks,East,1999-03-03,F,6'11,242,22,2013,3,2017,Filathlitikos Div II Greece (Greece),211,109,true
+Russell Westbrook,Oklahoma City Thunder,West,1986-03-07,G,6'3,200,28,2008,8,2017,UCLA,190,90,false
+Kevin Love,Cleveland Cavaliers,East,2010-04-14,FC,6'10,251,28,2008,8,2017,UCLA,208,113,true
+Kevin Durant,Golden State Warriors,West,1990-02-07,SF,6'9,240,28,2007,9,2017,Texas,206,108,false
+Jimmy Butler,Chicago Bulls,East,1994-05-11,GF,6'8,232,27,2011,5,2017,Marquette,203,105,true
+Anthony Davis,New Orleans Pelicans,West,1990-08-18,PF,6'10,253,23,2012,4,2017,Kentucky,208,114,false
+DeMar DeRozan,Toronto Raptors,East,2002-07-13,GF,6'7,220,27,2009,7,2017,USC,201,99,true
+James Harden,Houston Rockets,West,1989-10-20,SG,6'5,220,27,2009,7,2017,Arizona State,196,99,false
+LeBron James,Cleveland Cavaliers,East,1999-04-28,F,6'8,250,32,2003,13,2017,St. Vincent St. Mary High School (Ohio),203,113,true
+George Hill,Utah Jazz,West,1983-08-14,G,6'3,188,30,2008,8,2017,IUPUI,190,85,false
+LeBron James,Cleveland Cavaliers,East,1989-07-04,F,6'8,250,32,2003,13,2017,St. Vincent St. Mary High School (Ohio),203,113,true
+Russell Westbrook,Oklahoma City Thunder,West,2006-05-26,G,6'3,200,28,2008,8,2017,UCLA,190,90,true
+Paul Millsap,Atlanta Hawks,East,1988-03-02,FC,6'8,246,31,2006,9,2016,Louisiana Tech,203,111,false
+Karl-Anthony Towns,Minnesota Timberwolves,West,2010-04-14,C,7'0,248,20,2015,0,2016,Kentucky,213,112,false
+LeBron James,Cleveland Cavaliers,East,1999-11-07,F,6'8,250,31,2003,12,2016,St. Vincent St. Mary High School (Ohio),203,113,false
+J.J. Barea,Dallas Mavericks,West,1996-05-24,G,6'0,185,31,2006,9,2016,Northeastern,183,83,true
+LeBron James,Cleveland Cavaliers,East,1994-01-10,F,6'8,250,31,2003,12,2016,St. Vincent St. Mary High School (Ohio),203,113,true
+Klay Thompson,Golden State Warriors,West,2006-05-01,G,6'7,215,26,2011,4,2016,Washington State,201,97,false
+Kyle Lowry,Toronto Raptors,East,2009-08-12,PG,6'1,196,29,2006,9,2016,Villanova,185,88,false
+Kevin Durant,Oklahoma City Thunder,West,2016-03-26,SF,6'9,240,27,2007,8,2016,Texas,206,108,false
+Kemba Walker,Charlotte Hornets,East,2009-04-12,G,6'1,184,25,2011,4,2016,Connecticut,185,83,false
+Stephen Curry,Golden State Warriors,West,2007-01-04,G,6'3,190,27,2009,6,2016,Davidson,190,86,true
+LeBron James,Cleveland Cavaliers,East,2014-04-29,F,6'8,250,31,2003,12,2016,St. Vincent St. Mary High School (Ohio),203,113,true
+Kawhi Leonard,San Antonio Spurs,West,1996-09-26,F,6'7,230,24,2011,4,2016,San Diego State,201,104,false
+Kyle Lowry,Toronto Raptors,East,2014-12-05,PG,6'1,196,29,2006,9,2016,Villanova,185,88,false
+Stephen Curry,Golden State Warriors,West,2004-07-12,G,6'3,190,27,2009,6,2016,Davidson,190,86,false
+Isaiah Thomas,Boston Celtics,East,2003-11-25,PG,5'9,185,27,2011,4,2016,Washington,175,83,false
+LaMarcus Aldridge,San Antonio Spurs,West,1999-11-12,FC,6'11,265,30,2006,9,2016,Texas,211,120,false
+Dwyane Wade,Miami Heat,East,2017-10-21,SG,6'4,220,34,2003,12,2016,Marquette,193,99,true
+Kevin Durant,Oklahoma City Thunder,West,2020-05-08,SF,6'9,240,27,2007,8,2016,Texas,206,108,true
+Kemba Walker,Charlotte Hornets,East,1996-11-22,G,6'1,184,25,2011,4,2016,Connecticut,185,83,false
+DeMarcus Cousins,Sacramento Kings,West,2016-02-18,C,6'11,270,25,2010,5,2016,Kentucky,211,122,false
+John Wall,Washington Wizards,East,2005-06-26,PG,6'4,210,25,2010,5,2016,Kentucky,193,95,true
+Kevin Durant,Oklahoma City Thunder,West,1998-03-18,SF,6'9,240,27,2007,8,2016,Texas,206,108,false
+LeBron James,Cleveland Cavaliers,East,1997-11-30,F,6'8,250,31,2003,12,2016,St. Vincent St. Mary High School (Ohio),203,113,false
+Chris Paul,Los Angeles Clippers,West,2017-12-13,PG,6'0,175,30,2005,10,2016,Wake Forest,183,79,false
+Brook Lopez,Brooklyn Nets,East,2007-02-03,C,7'0,270,27,2008,7,2016,Stanford,213,122,true
+Draymond Green,Golden State Warriors,West,2008-09-07,F,6'7,230,25,2012,3,2016,Michigan State,201,104,true
+Marcin Gortat,Washington Wizards,East,1985-02-28,FC,6'11,240,32,2005,8,2016,Koln 99ers (Germany),211,108,false
+Russell Westbrook,Oklahoma City Thunder,West,1981-09-05,G,6'3,200,27,2008,7,2016,UCLA,190,90,false
+Reggie Jackson,Detroit Pistons,East,1999-06-12,G,6'3,208,25,2011,4,2016,Boston College,190,94,true
+Kawhi Leonard,San Antonio Spurs,West,1995-02-27,F,6'7,230,24,2011,4,2016,San Diego State,201,104,true
+DeMar DeRozan,Toronto Raptors,East,2021-12-29,GF,6'7,220,26,2009,6,2016,USC,201,99,false
+Kevin Durant,Oklahoma City Thunder,West,2022-03-12,SF,6'9,240,27,2007,8,2016,Texas,206,108,true
+Reggie Jackson,Detroit Pistons,East,1997-05-03,G,6'3,208,25,2011,4,2016,Boston College,190,94,false
+Stephen Curry,Golden State Warriors,West,2001-02-20,G,6'3,190,27,2009,6,2016,Davidson,190,86,false
+Paul George,Indiana Pacers,East,2020-05-17,GF,6'9,220,25,2010,5,2016,Fresno State,206,99,true
+Kevin Durant,Oklahoma City Thunder,West,1982-07-11,SF,6'9,240,27,2007,8,2016,Texas,206,108,true
+LeBron James,Cleveland Cavaliers,East,2016-03-25,F,6'8,250,31,2003,12,2016,St. Vincent St. Mary High School (Ohio),203,113,true
+Stephen Curry,Golden State Warriors,West,2008-08-30,G,6'3,190,27,2009,6,2016,Davidson,190,86,false
+Nicolas Batum,Charlotte Hornets,East,1994-03-21,F,6'8,200,27,2008,7,2016,Le Mans Sarthe Basket (France),203,90,false
+DeMarcus Cousins,Sacramento Kings,West,1985-01-12,C,6'11,270,25,2010,5,2016,Kentucky,211,122,true
+Andre Drummond,Detroit Pistons,East,1988-06-04,C,6'11,279,22,2012,3,2016,Connecticut,211,126,true
+James Harden,Houston Rockets,West,2018-12-05,SG,6'5,220,26,2009,6,2016,Arizona State,196,99,false
+Andre Drummond,Detroit Pistons,East,1990-11-03,C,6'11,279,22,2012,3,2016,Connecticut,211,126,true
+Stephen Curry,Golden State Warriors,West,2005-04-08,G,6'3,190,27,2009,6,2016,Davidson,190,86,true
+Isaiah Thomas,Boston Celtics,East,2007-10-13,PG,5'9,185,26,2011,3,2015,Washington,175,83,false
+Tim Duncan,San Antonio Spurs,West,1981-09-18,FC,6'11,250,38,1997,17,2015,Wake Forest,211,113,false
+Brook Lopez,Brooklyn Nets,East,2008-07-09,C,7'0,270,26,2008,6,2015,Stanford,213,122,true
+James Harden,Houston Rockets,West,2016-07-28,SG,6'5,220,25,2009,5,2015,Arizona State,196,99,false
+Brook Lopez,Brooklyn Nets,East,2005-07-14,C,7'0,270,26,2008,6,2015,Stanford,213,122,false
+Stephen Curry,Golden State Warriors,West,2005-03-11,G,6'3,190,26,2009,5,2015,Davidson,190,86,false
+Dwyane Wade,Miami Heat,East,2012-05-09,SG,6'4,220,33,2003,11,2015,Marquette,193,99,false
+Chris Paul,Los Angeles Clippers,West,1979-12-18,PG,6'0,175,29,2005,9,2015,Wake Forest,183,79,false
+Kyrie Irving,Cleveland Cavaliers,East,1984-08-02,G,6'3,193,22,2011,3,2015,Duke,190,87,false
+Anthony Davis,New Orleans Pelicans,West,1982-09-18,PF,6'10,253,21,2012,2,2015,Kentucky,208,114,true
+Mo Williams,Charlotte Hornets,East,1989-12-06,G,6'1,198,32,2003,11,2015,Alabama,185,89,true
+Russell Westbrook,Oklahoma City Thunder,West,1991-05-22,G,6'3,200,26,2008,6,2015,UCLA,190,90,true
+Isaiah Thomas,Boston Celtics,East,2020-06-24,PG,5'9,185,26,2011,3,2015,Washington,175,83,true
+Damian Lillard,Portland Trail Blazers,West,2001-02-21,G,6'3,195,24,2012,2,2015,Weber State,190,88,true
+Giannis Antetokounmpo,Milwaukee Bucks,East,2017-02-01,F,6'11,242,20,2013,1,2015,Filathlitikos Div II Greece (Greece),211,109,false
+Russell Westbrook,Oklahoma City Thunder,West,1981-03-02,G,6'3,200,26,2008,6,2015,UCLA,190,90,true
+Kyrie Irving,Cleveland Cavaliers,East,1980-07-15,G,6'3,193,22,2011,3,2015,Duke,190,87,true
+Zach Randolph,Memphis Grizzlies,West,1993-11-21,PF,6'9,260,33,2001,13,2015,Michigan State,206,118,false
+LeBron James,Cleveland Cavaliers,East,2020-11-18,F,6'8,250,30,2003,11,2015,St. Vincent St. Mary High School (Ohio),203,113,false
+Klay Thompson,Golden State Warriors,West,2003-02-25,G,6'7,215,25,2011,3,2015,Washington State,201,97,true
+Al Horford,Atlanta Hawks,East,2019-02-26,FC,6'10,245,28,2007,7,2015,Florida,208,111,false
+Mo Williams,Minnesota Timberwolves,West,1986-07-07,G,6'1,198,32,2003,11,2015,Alabama,185,89,false
+Kemba Walker,Charlotte Hornets,East,2003-12-01,G,6'1,184,24,2011,3,2015,Connecticut,185,83,false
+Klay Thompson,Golden State Warriors,West,1991-09-23,G,6'7,215,25,2011,3,2015,Washington State,201,97,true
+Jeff Teague,Atlanta Hawks,East,1987-11-21,PG,6'2,195,26,2009,5,2015,Wake Forest,188,88,true
+Kevin Durant,Oklahoma City Thunder,West,2000-12-20,SF,6'9,240,26,2007,7,2015,Texas,206,108,true
+Jimmy Butler,Chicago Bulls,East,1999-08-14,GF,6'8,232,25,2011,3,2015,Marquette,203,105,true
+James Harden,Houston Rockets,West,1997-01-22,SG,6'5,220,25,2009,5,2015,Arizona State,196,99,false
+Al Horford,Atlanta Hawks,East,2006-07-20,FC,6'10,245,28,2007,7,2015,Florida,208,111,false
+LaMarcus Aldridge,Portland Trail Blazers,West,2013-03-04,FC,6'11,265,29,2006,8,2015,Texas,211,120,false
+John Wall,Washington Wizards,East,1999-03-14,PG,6'4,210,24,2010,4,2015,Kentucky,193,95,false
+James Harden,Houston Rockets,West,2001-11-10,SG,6'5,220,25,2009,5,2015,Arizona State,196,99,true
+Kyle Lowry,Toronto Raptors,East,1984-10-03,PG,6'1,196,28,2006,8,2015,Villanova,185,88,false
+LaMarcus Aldridge,Portland Trail Blazers,West,2013-09-02,FC,6'11,265,29,2006,8,2015,Texas,211,120,false
+LeBron James,Cleveland Cavaliers,East,2014-04-10,F,6'8,250,30,2003,11,2015,St. Vincent St. Mary High School (Ohio),203,113,true
+Blake Griffin,Los Angeles Clippers,West,2016-06-09,PF,6'10,250,25,2009,5,2015,Oklahoma,208,113,false
+Lou Williams,Toronto Raptors,East,1995-11-30,G,6'1,175,28,2005,9,2015,South Gwinnett High School (Georgia),185,79,false
+DeMarcus Cousins,Sacramento Kings,West,2011-02-10,C,6'11,270,24,2010,4,2015,Kentucky,211,122,false
+LeBron James,Cleveland Cavaliers,East,2009-11-18,F,6'8,250,30,2003,11,2015,St. Vincent St. Mary High School (Ohio),203,113,false
+Damian Lillard,Portland Trail Blazers,West,2002-02-09,G,6'3,195,24,2012,2,2015,Weber State,190,88,false
+Deron Williams,Brooklyn Nets,East,2000-04-11,PG,6'3,200,30,2005,9,2015,Illinois,190,90,false
+Stephen Curry,Golden State Warriors,West,2012-02-25,G,6'3,190,26,2009,5,2015,Davidson,190,86,true
+Chris Bosh,Miami Heat,East,2005-06-13,PF,6'11,235,30,2003,11,2015,Georgia Tech,211,106,true
+Klay Thompson,Golden State Warriors,West,2006-05-24,G,6'7,215,25,2011,3,2015,Washington State,201,97,false
+Jeff Teague,Atlanta Hawks,East,2007-06-12,PG,6'2,195,25,2009,4,2014,Wake Forest,188,88,false
+Monta Ellis,Dallas Mavericks,West,2021-12-20,G,6'3,185,28,2005,8,2014,Lanier High School (Mississippi),190,83,false
+Al Jefferson,Charlotte Bobcats,East,2010-01-12,FC,6'10,289,29,2004,9,2014,Prentiss High School (Mississippi),208,131,false
+Dirk Nowitzki,Dallas Mavericks,West,1987-06-23,PF,7'0,245,35,1998,15,2014,DJK Wurzburg (Germany),213,111,true
+Nikola Vucevic,Orlando Magic,East,1991-08-12,PF,7'0,260,23,2011,2,2014,USC,213,118,true
+Tim Duncan,San Antonio Spurs,West,2015-06-22,FC,6'11,250,37,1997,16,2014,Wake Forest,211,113,false
+Joe Johnson,Brooklyn Nets,East,2005-06-14,SG,6'7,240,32,2001,12,2014,Arkansas,201,108,true
+Kevin Durant,Oklahoma City Thunder,West,2008-05-21,SF,6'9,240,25,2007,6,2014,Texas,206,108,true
+Al Jefferson,Charlotte Bobcats,East,2011-03-26,FC,6'10,289,29,2004,9,2014,Prentiss High School (Mississippi),208,131,true
+Blake Griffin,Los Angeles Clippers,West,1988-01-11,PF,6'10,250,24,2009,4,2014,Oklahoma,208,113,false
+Carmelo Anthony,New York Knicks,East,2017-06-04,F,6'8,240,29,2003,10,2014,Syracuse,203,108,false
+James Harden,Houston Rockets,West,2004-03-07,SG,6'5,220,24,2009,4,2014,Arizona State,196,99,true
+John Wall,Washington Wizards,East,1986-09-09,PG,6'4,210,23,2010,3,2014,Kentucky,193,95,true
+James Harden,Houston Rockets,West,1992-02-20,SG,6'5,220,24,2009,4,2014,Arizona State,196,99,true
+Kemba Walker,Charlotte Bobcats,East,2015-03-03,G,6'1,184,23,2011,2,2014,Connecticut,185,83,false
+Kevin Love,Minnesota Timberwolves,West,2001-08-04,FC,6'10,251,25,2008,5,2014,UCLA,208,113,true
+Jared Sullinger,Boston Celtics,East,1999-10-20,C,6'9,260,21,2012,1,2014,Ohio State,206,118,false
+Kevin Durant,Oklahoma City Thunder,West,2008-01-09,SF,6'9,240,25,2007,6,2014,Texas,206,108,false
+Kyle Lowry,Toronto Raptors,East,2004-09-16,PG,6'1,196,27,2006,7,2014,Villanova,185,88,true
+Goran Dragic,Phoenix Suns,West,2019-05-17,G,6'3,190,27,2008,5,2014,Union Olimpija (Slovenia),190,86,true
+Paul Millsap,Atlanta Hawks,East,2003-06-25,FC,6'8,246,29,2006,7,2014,Louisiana Tech,203,111,false
+Kevin Durant,Oklahoma City Thunder,West,1983-06-28,SF,6'9,240,25,2007,6,2014,Texas,206,108,false
+Paul George,Indiana Pacers,East,1993-04-23,GF,6'9,220,23,2010,3,2014,Fresno State,206,99,true
+Kevin Durant,Oklahoma City Thunder,West,2005-08-29,SF,6'9,240,25,2007,6,2014,Texas,206,108,true
+Carmelo Anthony,New York Knicks,East,1993-09-29,F,6'8,240,29,2003,10,2014,Syracuse,203,108,true
+DeMarcus Cousins,Sacramento Kings,West,1984-04-11,C,6'11,270,23,2010,3,2014,Kentucky,211,122,true
+Thaddeus Young,Philadelphia Sixers,East,1982-07-21,F,6'8,221,25,2007,6,2014,Georgia Tech,203,100,false
+David Lee,Golden State Warriors,West,1985-02-02,FC,6'9,245,30,2005,8,2014,Florida,206,111,true
+Chris Bosh,Miami Heat,East,2008-09-10,PF,6'11,235,29,2003,10,2014,Georgia Tech,211,106,false
+Kevin Durant,Oklahoma City Thunder,West,1992-02-13,SF,6'9,240,25,2007,6,2014,Texas,206,108,true
+Dwyane Wade,Miami Heat,East,1989-10-02,SG,6'4,220,32,2003,10,2014,Marquette,193,99,false
+Blake Griffin,Los Angeles Clippers,West,2019-10-29,PF,6'10,250,24,2009,4,2014,Oklahoma,208,113,true
+Kyrie Irving,Cleveland Cavaliers,East,2004-08-31,G,6'3,193,21,2011,2,2014,Duke,190,87,true
+LaMarcus Aldridge,Portland Trail Blazers,West,1997-07-23,FC,6'11,265,28,2006,7,2014,Texas,211,120,false
+Jordan Crawford,Boston Celtics,East,2006-04-09,G,6'5,195,25,2010,3,2014,Xavier,196,88,false
+LaMarcus Aldridge,Portland Trail Blazers,West,2002-08-16,FC,6'11,265,28,2006,7,2014,Texas,211,120,false
+LeBron James,Miami Heat,East,2013-08-10,F,6'8,250,29,2003,10,2014,St. Vincent St. Mary High School (Ohio),203,113,true
+Kevin Durant,Oklahoma City Thunder,West,1982-05-16,SF,6'9,240,25,2007,6,2014,Texas,206,108,false
+John Wall,Washington Wizards,East,2011-12-02,PG,6'4,210,23,2010,3,2014,Kentucky,193,95,false
+LaMarcus Aldridge,Portland Trail Blazers,West,1981-10-17,FC,6'11,265,28,2006,7,2014,Texas,211,120,false
+LeBron James,Miami Heat,East,1999-07-27,F,6'8,250,29,2003,10,2014,St. Vincent St. Mary High School (Ohio),203,113,true
+Blake Griffin,Los Angeles Clippers,West,1998-05-25,PF,6'10,250,24,2009,4,2014,Oklahoma,208,113,false
+Paul George,Indiana Pacers,East,2021-03-21,GF,6'9,220,23,2010,3,2014,Fresno State,206,99,true
+Markieff Morris,Phoenix Suns,West,2000-06-17,PF,6'10,245,24,2011,2,2014,Kansas,208,111,false
+Michael Carter-Williams,Philadelphia Sixers,East,2020-12-05,PG,6'6,190,22,2013,0,2014,Syracuse,198,86,true
+Kevin Love,Minnesota Timberwolves,West,2018-12-15,FC,6'10,251,25,2008,5,2014,UCLA,208,113,true
+Carmelo Anthony,New York Knicks,East,2002-03-15,F,6'8,240,28,2003,9,2013,Syracuse,203,108,true
+Kobe Bryant,Los Angeles Lakers,West,2001-09-13,SG,6'6,212,34,1996,16,2013,Lower Merion High School (Pennsylvania),198,96,true
+Carmelo Anthony,New York Knicks,East,1997-11-12,F,6'8,240,28,2003,9,2013,Syracuse,203,108,false
+Nikola Pekovic,Minnesota Timberwolves,West,1982-01-23,PF,6'11,307,27,2008,2,2013,Panathinaikos (Greece),211,139,false
+J.R. Smith,New York Knicks,East,2018-07-31,SG,6'6,225,27,2004,8,2013,Saint Benedict's Preparatory School (New Jersey),198,102,false
+Al Jefferson,Utah Jazz,West,2019-05-11,FC,6'10,289,28,2004,8,2013,Prentiss High School (Mississippi),208,131,false
+LeBron James,Miami Heat,East,2021-01-07,F,6'8,250,28,2003,9,2013,St. Vincent St. Mary High School (Ohio),203,113,true
+James Harden,Houston Rockets,West,1983-08-13,SG,6'5,220,23,2009,3,2013,Arizona State,196,99,true
+John Wall,Washington Wizards,East,1983-10-02,PG,6'4,210,22,2010,2,2013,Kentucky,193,95,true
+LaMarcus Aldridge,Portland Trail Blazers,West,2012-02-16,FC,6'11,265,27,2006,6,2013,Texas,211,120,false
+Dwyane Wade,Miami Heat,East,2014-10-02,SG,6'4,220,31,2003,9,2013,Marquette,193,99,true
+Kobe Bryant,Los Angeles Lakers,West,1999-03-07,SG,6'6,212,34,1996,16,2013,Lower Merion High School (Pennsylvania),198,96,false
+Monta Ellis,Milwaukee Bucks,East,2001-11-28,G,6'3,185,27,2005,7,2013,Lanier High School (Mississippi),190,83,true
+Ty Lawson,Denver Nuggets,West,2009-02-17,PG,5'11,195,25,2009,3,2013,North Carolina,180,88,false
+LeBron James,Miami Heat,East,2000-01-20,F,6'8,250,28,2003,9,2013,St. Vincent St. Mary High School (Ohio),203,113,false
+Kobe Bryant,Los Angeles Lakers,West,2000-01-14,SG,6'6,212,34,1996,16,2013,Lower Merion High School (Pennsylvania),198,96,false
+LeBron James,Miami Heat,East,2016-02-05,F,6'8,250,28,2003,9,2013,St. Vincent St. Mary High School (Ohio),203,113,true
+Russell Westbrook,Oklahoma City Thunder,West,2017-02-19,G,6'3,200,24,2008,4,2013,UCLA,190,90,false
+Nate Robinson,Chicago Bulls,East,2004-06-09,G,5'9,180,28,2005,7,2013,Washington,175,81,false
+David Lee,Golden State Warriors,West,2003-01-05,FC,6'9,245,29,2005,7,2013,Florida,206,111,false
+Kyrie Irving,Cleveland Cavaliers,East,1981-04-21,G,6'3,193,20,2011,1,2013,Duke,190,87,false
+Tony Parker,San Antonio Spurs,West,2014-02-10,G,6'2,185,30,2001,11,2013,Paris Basket Racing (France),188,83,true
+Carlos Boozer,Chicago Bulls,East,2007-03-15,PF,6'9,266,31,2002,10,2013,Duke,206,120,false
+Kevin Durant,Oklahoma City Thunder,West,2001-12-22,SF,6'9,240,24,2007,5,2013,Texas,206,108,false
+Brandon Jennings,Milwaukee Bucks,East,2007-01-06,G,6'1,170,23,2009,3,2013,Virtus Roma (Italy),185,77,true
+Kevin Durant,Oklahoma City Thunder,West,2000-05-04,SF,6'9,240,24,2007,5,2013,Texas,206,108,false
+Carmelo Anthony,New York Knicks,East,2016-06-24,F,6'8,240,28,2003,9,2013,Syracuse,203,108,true
+James Harden,Houston Rockets,West,1995-09-03,SG,6'5,220,23,2009,3,2013,Arizona State,196,99,true
+Monta Ellis,Milwaukee Bucks,East,2004-06-09,G,6'3,185,27,2005,7,2013,Lanier High School (Mississippi),190,83,true
+Greivis Vasquez,New Orleans Hornets,West,1997-02-18,G,6'6,217,26,2010,2,2013,Maryland,198,98,false
+LeBron James,Miami Heat,East,2018-06-09,F,6'8,250,28,2003,9,2013,St. Vincent St. Mary High School (Ohio),203,113,true
+Chris Paul,Los Angeles Clippers,West,2016-02-26,PG,6'0,175,27,2005,7,2013,Wake Forest,183,79,true
+Paul George,Indiana Pacers,East,1999-05-10,GF,6'9,220,22,2010,2,2013,Fresno State,206,99,true
+David Lee,Golden State Warriors,West,1993-09-12,FC,6'9,245,29,2005,7,2013,Florida,206,111,true
+Josh Smith,Atlanta Hawks,East,1980-04-29,PF,6'9,225,27,2004,8,2013,Oak Hill Academy (Virginia),206,102,true
+Blake Griffin,Los Angeles Clippers,West,1987-07-24,PF,6'10,250,23,2009,3,2013,Oklahoma,208,113,true
+Carmelo Anthony,New York Knicks,East,2017-09-16,F,6'8,240,28,2003,9,2013,Syracuse,203,108,true
+Kevin Durant,Oklahoma City Thunder,West,1997-11-09,SF,6'9,240,24,2007,5,2013,Texas,206,108,true
+Al Horford,Atlanta Hawks,East,2007-04-21,FC,6'10,245,26,2007,5,2013,Florida,208,111,true
+Tim Duncan,San Antonio Spurs,West,2000-12-24,FC,6'11,250,36,1997,15,2013,Wake Forest,211,113,true
+LeBron James,Miami Heat,East,2009-01-08,F,6'8,250,28,2003,9,2013,St. Vincent St. Mary High School (Ohio),203,113,true
+Kevin Durant,Oklahoma City Thunder,West,2000-05-01,SF,6'9,240,24,2007,5,2013,Texas,206,108,false
+LeBron James,Miami Heat,East,2019-04-30,F,6'8,250,28,2003,9,2013,St. Vincent St. Mary High School (Ohio),203,113,false
+Kenneth Faried,Denver Nuggets,West,1986-08-31,F,6'8,220,23,2011,1,2013,Morehead State,203,99,true
+Brandon Jennings,Milwaukee Bucks,East,1995-11-29,G,6'1,170,23,2009,3,2013,Virtus Roma (Italy),185,77,true
+James Harden,Houston Rockets,West,2012-08-29,SG,6'5,220,23,2009,3,2013,Arizona State,196,99,false
+LeBron James,Miami Heat,East,1993-11-14,F,6'8,250,27,2003,8,2012,St. Vincent St. Mary High School (Ohio),203,113,true
+Al Jefferson,Utah Jazz,West,2000-06-17,FC,6'10,289,27,2004,7,2012,Prentiss High School (Mississippi),208,131,false
+Kevin Garnett,Boston Celtics,East,2021-01-18,PF,6'11,240,35,1995,16,2012,Farragut Career Academy (Illinois),211,108,false
+Andrew Bynum,Los Angeles Lakers,West,1984-06-11,C,7'0,285,24,2005,6,2012,St. Joseph High School (New Jersey),213,129,true
+LeBron James,Miami Heat,East,1994-02-22,F,6'8,250,27,2003,8,2012,St. Vincent St. Mary High School (Ohio),203,113,false
+Goran Dragic,Houston Rockets,West,1999-01-15,G,6'3,190,25,2008,3,2012,Union Olimpija (Slovenia),190,86,false
+Paul Pierce,Boston Celtics,East,2020-08-05,SF,6'7,235,34,1998,13,2012,Kansas,201,106,false
+Chris Paul,Los Angeles Clippers,West,1999-11-05,PG,6'0,175,26,2005,6,2012,Wake Forest,183,79,false
+Joe Johnson,Atlanta Hawks,East,1992-10-01,SG,6'7,240,30,2001,10,2012,Arkansas,201,108,false
+Kevin Durant,Oklahoma City Thunder,West,1989-11-06,SF,6'9,240,23,2007,4,2012,Texas,206,108,true
+Drew Gooden,Milwaukee Bucks,East,1981-11-22,FC,6'10,250,30,2002,9,2012,Kansas,208,113,true
+Andrew Bynum,Los Angeles Lakers,West,1991-04-19,C,7'0,285,24,2005,6,2012,St. Joseph High School (New Jersey),213,129,false
+Ersan Ilyasova,Milwaukee Bucks,East,2004-04-01,F,6'10,235,24,2005,4,2012,Alpella B.K. (Turkey),208,106,false
+Monta Ellis,Golden State Warriors,West,1982-09-21,G,6'3,185,26,2005,6,2012,Lanier High School (Mississippi),190,83,false
+Derrick Rose,Chicago Bulls,East,1986-11-12,PG,6'3,200,23,2008,3,2012,Memphis,190,90,true
+Ty Lawson,Denver Nuggets,West,1986-10-09,PG,5'11,195,24,2009,2,2012,North Carolina,180,88,false
+LeBron James,Miami Heat,East,1982-05-02,F,6'8,250,27,2003,8,2012,St. Vincent St. Mary High School (Ohio),203,113,false
+Kevin Durant,Oklahoma City Thunder,West,2014-03-02,SF,6'9,240,23,2007,4,2012,Texas,206,108,true
+Jeremy Lin,New York Knicks,East,2018-12-09,G,6'3,200,23,2010,1,2012,Harvard,190,90,true
+Russell Westbrook,Oklahoma City Thunder,West,1998-05-02,G,6'3,200,23,2008,3,2012,UCLA,190,90,false
+Paul Pierce,Boston Celtics,East,2013-05-15,SF,6'7,235,34,1998,13,2012,Kansas,201,106,true
+Tony Parker,San Antonio Spurs,West,1990-11-29,G,6'2,185,29,2001,10,2012,Paris Basket Racing (France),188,83,true
+LeBron James,Miami Heat,East,1983-05-13,F,6'8,250,27,2003,8,2012,St. Vincent St. Mary High School (Ohio),203,113,true
+Russell Westbrook,Oklahoma City Thunder,West,2002-03-15,G,6'3,200,23,2008,3,2012,UCLA,190,90,true
+Dwight Howard,Orlando Magic,East,2018-11-18,C,6'11,265,26,2004,7,2012,Southwest Atlanta Christian Academy (Georgia),211,120,true
+Marc Gasol,Memphis Grizzlies,West,2015-02-13,C,7'1,255,27,2007,3,2012,Sant Josep Girona (Spain),216,115,false
+Derrick Rose,Chicago Bulls,East,1988-10-05,PG,6'3,200,23,2008,3,2012,Memphis,190,90,false
+Kobe Bryant,Los Angeles Lakers,West,1990-08-15,SG,6'6,212,33,1996,15,2012,Lower Merion High School (Pennsylvania),198,96,false
+LeBron James,Miami Heat,East,2008-11-03,F,6'8,250,27,2003,8,2012,St. Vincent St. Mary High School (Ohio),203,113,false
+Kobe Bryant,Los Angeles Lakers,West,1983-03-13,SG,6'6,212,33,1996,15,2012,Lower Merion High School (Pennsylvania),198,96,true
+LeBron James,Miami Heat,East,2015-08-09,F,6'8,250,27,2003,8,2012,St. Vincent St. Mary High School (Ohio),203,113,false
+Kevin Durant,Oklahoma City Thunder,West,1980-08-25,SF,6'9,240,23,2007,4,2012,Texas,206,108,true
+Carmelo Anthony,New York Knicks,East,2006-07-21,F,6'8,240,26,2003,7,2011,Syracuse,203,108,true
+Kevin Durant,Oklahoma City Thunder,West,1981-12-31,SF,6'9,240,22,2007,3,2011,Texas,206,108,true
+Carmelo Anthony,New York Knicks,East,1983-10-04,F,6'8,240,26,2003,7,2011,Syracuse,203,108,true
+Zach Randolph,Memphis Grizzlies,West,2001-08-19,PF,6'9,260,29,2001,9,2011,Michigan State,206,118,true
+Dwight Howard,Orlando Magic,East,2021-10-07,C,6'11,265,25,2004,6,2011,Southwest Atlanta Christian Academy (Georgia),211,120,false
+Kobe Bryant,Los Angeles Lakers,West,1999-03-13,SG,6'6,212,32,1996,14,2011,Lower Merion High School (Pennsylvania),198,96,false
+LeBron James,Miami Heat,East,1991-05-23,F,6'8,250,26,2003,7,2011,St. Vincent St. Mary High School (Ohio),203,113,true
+Kyle Lowry,Houston Rockets,West,2016-03-16,PG,6'1,196,24,2006,4,2011,Villanova,185,88,false
+Dwyane Wade,Miami Heat,East,1995-07-24,SG,6'4,220,29,2003,7,2011,Marquette,193,99,true
+Tony Parker,San Antonio Spurs,West,1984-10-28,G,6'2,185,28,2001,9,2011,Paris Basket Racing (France),188,83,false
+Paul Pierce,Boston Celtics,East,2006-08-29,SF,6'7,235,33,1998,12,2011,Kansas,201,106,true
+Russell Westbrook,Oklahoma City Thunder,West,2021-09-14,G,6'3,200,22,2008,2,2011,UCLA,190,90,true
+Dwight Howard,Orlando Magic,East,1999-03-26,C,6'11,265,25,2004,6,2011,Southwest Atlanta Christian Academy (Georgia),211,120,false
+Kevin Martin,Houston Rockets,West,1992-08-21,SG,6'7,199,28,2004,6,2011,Western Carolina,201,90,true
+Dwight Howard,Orlando Magic,East,2014-06-09,C,6'11,265,25,2004,6,2011,Southwest Atlanta Christian Academy (Georgia),211,120,true
+LaMarcus Aldridge,Portland Trail Blazers,West,2020-11-30,FC,6'11,265,25,2006,4,2011,Texas,211,120,false
+LeBron James,Miami Heat,East,1992-10-13,F,6'8,250,26,2003,7,2011,St. Vincent St. Mary High School (Ohio),203,113,true
+Kevin Durant,Oklahoma City Thunder,West,2021-03-07,SF,6'9,240,22,2007,3,2011,Texas,206,108,false
+LeBron James,Miami Heat,East,1993-08-08,F,6'8,250,26,2003,7,2011,St. Vincent St. Mary High School (Ohio),203,113,true
+Zach Randolph,Memphis Grizzlies,West,1997-01-29,PF,6'9,260,29,2001,9,2011,Michigan State,206,118,false
+Dwight Howard,Orlando Magic,East,2019-01-18,C,6'11,265,25,2004,6,2011,Southwest Atlanta Christian Academy (Georgia),211,120,true
+LaMarcus Aldridge,Portland Trail Blazers,West,1984-11-05,FC,6'11,265,25,2006,4,2011,Texas,211,120,false
+Derrick Rose,Chicago Bulls,East,2005-11-18,PG,6'3,200,22,2008,2,2011,Memphis,190,90,true
+Russell Westbrook,Oklahoma City Thunder,West,2003-12-26,G,6'3,200,22,2008,2,2011,UCLA,190,90,true
+LeBron James,Miami Heat,East,2013-11-13,F,6'8,250,26,2003,7,2011,St. Vincent St. Mary High School (Ohio),203,113,true
+Zach Randolph,Memphis Grizzlies,West,1993-06-09,PF,6'9,260,29,2001,9,2011,Michigan State,206,118,false
+Dwyane Wade,Miami Heat,East,1983-09-25,SG,6'4,220,29,2003,7,2011,Marquette,193,99,true
+Chauncey Billups,Denver Nuggets,West,1984-05-18,G,6'3,210,34,1997,13,2011,Colorado,190,95,false
+LeBron James,Miami Heat,East,1996-03-04,F,6'8,250,26,2003,7,2011,St. Vincent St. Mary High School (Ohio),203,113,true
+Monta Ellis,Golden State Warriors,West,2000-03-17,G,6'3,185,25,2005,5,2011,Lanier High School (Mississippi),190,83,false
+Paul Pierce,Boston Celtics,East,1982-10-04,SF,6'7,235,33,1998,12,2011,Kansas,201,106,false
+Tony Parker,San Antonio Spurs,West,2009-03-14,G,6'2,185,28,2001,9,2011,Paris Basket Racing (France),188,83,true
+Dwyane Wade,Miami Heat,East,2021-01-09,SG,6'4,220,29,2003,7,2011,Marquette,193,99,true
+Dirk Nowitzki,Dallas Mavericks,West,2016-10-20,PF,7'0,245,32,1998,12,2011,DJK Wurzburg (Germany),213,111,true
+Amar'e Stoudemire,New York Knicks,East,1981-11-11,FC,6'10,245,28,2002,8,2011,Cypress Creek High School (Florida),208,111,true
+Russell Westbrook,Oklahoma City Thunder,West,1993-02-20,G,6'3,200,22,2008,2,2011,UCLA,190,90,true
+Dwight Howard,Orlando Magic,East,2014-05-23,C,6'11,265,25,2004,6,2011,Southwest Atlanta Christian Academy (Georgia),211,120,true
+Dirk Nowitzki,Dallas Mavericks,West,2022-02-07,PF,7'0,245,32,1998,12,2011,DJK Wurzburg (Germany),213,111,false
+Amar'e Stoudemire,New York Knicks,East,1983-08-14,FC,6'10,245,28,2002,8,2011,Cypress Creek High School (Florida),208,111,false
+Russell Westbrook,Oklahoma City Thunder,West,1991-10-01,G,6'3,200,22,2008,2,2011,UCLA,190,90,false
+Derrick Rose,Chicago Bulls,East,1991-02-08,PG,6'3,200,22,2008,2,2011,Memphis,190,90,false
+Deron Williams,Utah Jazz,West,1990-01-08,PG,6'3,200,26,2005,5,2011,Illinois,190,90,true
+Dwight Howard,Orlando Magic,East,2002-01-11,C,6'11,265,25,2004,6,2011,Southwest Atlanta Christian Academy (Georgia),211,120,false
+Chris Paul,New Orleans Hornets,West,2017-06-15,PG,6'0,175,25,2005,5,2011,Wake Forest,183,79,false
+Rajon Rondo,Boston Celtics,East,2006-11-10,PG,6'1,186,25,2006,4,2011,Kentucky,185,84,true
+Pau Gasol,Los Angeles Lakers,West,1996-10-12,FC,7'0,250,30,2001,9,2011,FC Barcelona Lassa (Spain),213,113,true
+Dwight Howard,Orlando Magic,East,2012-11-02,C,6'11,265,24,2004,5,2010,Southwest Atlanta Christian Academy (Georgia),211,120,true
+Dirk Nowitzki,Dallas Mavericks,West,2016-12-02,PF,7'0,245,31,1998,11,2010,DJK Wurzburg (Germany),213,111,false
+Chris Bosh,Toronto Raptors,East,1992-06-23,PF,6'11,235,25,2003,6,2010,Georgia Tech,211,106,false
+Kevin Durant,Oklahoma City Thunder,West,2019-05-20,SF,6'9,240,21,2007,2,2010,Texas,206,108,true
+Dwyane Wade,Miami Heat,East,1993-05-03,SG,6'4,220,28,2003,6,2010,Marquette,193,99,false
+Manu Ginobili,San Antonio Spurs,West,1993-03-21,SG,6'6,205,32,1999,7,2010,Viola Reggio Calabria (Italy),198,93,true
+Paul Pierce,Boston Celtics,East,1988-08-19,SF,6'7,235,32,1998,11,2010,Kansas,201,106,false
+Pau Gasol,Los Angeles Lakers,West,2019-09-17,FC,7'0,250,29,2001,8,2010,FC Barcelona Lassa (Spain),213,113,true
+Andrew Bogut,Milwaukee Bucks,East,1983-12-26,C,7'0,260,25,2005,4,2010,Utah,213,118,false
+Brandon Roy,Portland Trail Blazers,West,2013-04-25,G,6'6,211,25,2006,3,2010,Washington,198,95,false
+Dwyane Wade,Miami Heat,East,2001-06-26,SG,6'4,220,28,2003,6,2010,Marquette,193,99,false
+Dirk Nowitzki,Dallas Mavericks,West,1992-08-21,PF,7'0,245,31,1998,11,2010,DJK Wurzburg (Germany),213,111,true
+LeBron James,Cleveland Cavaliers,East,2018-10-15,F,6'8,250,25,2003,6,2010,St. Vincent St. Mary High School (Ohio),203,113,true
+Dirk Nowitzki,Dallas Mavericks,West,2006-09-05,PF,7'0,245,31,1998,11,2010,DJK Wurzburg (Germany),213,111,true
+Dwight Howard,Orlando Magic,East,1991-05-07,C,6'11,265,24,2004,5,2010,Southwest Atlanta Christian Academy (Georgia),211,120,false
+Carlos Boozer,Utah Jazz,West,2008-10-25,PF,6'9,266,28,2002,7,2010,Duke,206,120,true
+LeBron James,Cleveland Cavaliers,East,2020-12-12,F,6'8,250,25,2003,6,2010,St. Vincent St. Mary High School (Ohio),203,113,true
+Russell Westbrook,Oklahoma City Thunder,West,2014-05-02,G,6'3,200,21,2008,1,2010,UCLA,190,90,false
+Chris Bosh,Toronto Raptors,East,1989-08-06,PF,6'11,235,25,2003,6,2010,Georgia Tech,211,106,false
+Kevin Durant,Oklahoma City Thunder,West,2017-01-10,SF,6'9,240,21,2007,2,2010,Texas,206,108,false
+LeBron James,Cleveland Cavaliers,East,2014-01-27,F,6'8,250,25,2003,6,2010,St. Vincent St. Mary High School (Ohio),203,113,true
+Chauncey Billups,Denver Nuggets,West,2014-04-25,G,6'3,210,33,1997,12,2010,Colorado,190,95,true
+Stephen Jackson,Charlotte Bobcats,East,2015-09-16,GF,6'8,220,31,1997,12,2010,Butler CC,203,99,true
+Carmelo Anthony,Denver Nuggets,West,2018-05-04,F,6'8,240,25,2003,6,2010,Syracuse,203,108,false
+LeBron James,Cleveland Cavaliers,East,2022-02-13,F,6'8,250,25,2003,6,2010,St. Vincent St. Mary High School (Ohio),203,113,false
+Chris Kaman,Los Angeles Clippers,East,2020-01-01,C,7'0,265,27,2003,6,2010,Central Michigan,213,120,true
+Derrick Rose,Chicago Bulls,East,2019-05-22,PG,6'3,200,21,2008,1,2010,Memphis,190,90,false
+Kevin Durant,Oklahoma City Thunder,West,2013-07-21,SF,6'9,240,21,2007,2,2010,Texas,206,108,false
+LeBron James,Cleveland Cavaliers,East,1993-06-04,F,6'8,250,25,2003,6,2010,St. Vincent St. Mary High School (Ohio),203,113,false
+Kobe Bryant,Los Angeles Lakers,West,2001-12-07,SG,6'6,212,31,1996,13,2010,Lower Merion High School (Pennsylvania),198,96,false
+Dwight Howard,Orlando Magic,East,2007-03-14,C,6'11,265,24,2004,5,2010,Southwest Atlanta Christian Academy (Georgia),211,120,true
+Kobe Bryant,Los Angeles Lakers,West,2007-06-09,SG,6'6,212,31,1996,13,2010,Lower Merion High School (Pennsylvania),198,96,true
+Rodney Stuckey,Detroit Pistons,East,1993-09-14,G,6'5,205,23,2007,2,2010,Eastern Washington,196,93,false
+Deron Williams,Utah Jazz,West,1984-05-26,PG,6'3,200,25,2005,4,2010,Illinois,190,90,true
+Kevin Garnett,Boston Celtics,East,2017-02-03,PF,6'11,240,33,1995,14,2010,Farragut Career Academy (Illinois),211,108,false
+Carlos Boozer,Utah Jazz,West,1992-03-21,PF,6'9,266,28,2002,7,2010,Duke,206,120,false
+Gerald Wallace,Charlotte Bobcats,East,2011-03-02,F,6'7,220,27,2001,8,2010,Alabama,201,99,true
+Tim Duncan,San Antonio Spurs,West,2014-04-13,FC,6'11,250,33,1997,12,2010,Wake Forest,211,113,false
+LeBron James,Cleveland Cavaliers,East,1980-06-16,F,6'8,250,25,2003,6,2010,St. Vincent St. Mary High School (Ohio),203,113,true
+Kobe Bryant,Los Angeles Lakers,West,2012-05-14,SG,6'6,212,31,1996,13,2010,Lower Merion High School (Pennsylvania),198,96,false
+Brandon Jennings,Milwaukee Bucks,East,1994-11-22,G,6'1,170,20,2009,0,2010,Virtus Roma (Italy),185,77,false
+Dirk Nowitzki,Dallas Mavericks,West,2000-11-10,PF,7'0,245,31,1998,11,2010,DJK Wurzburg (Germany),213,111,true
+Joe Johnson,Atlanta Hawks,East,2013-10-12,SG,6'7,240,28,2001,8,2010,Arkansas,201,108,false
+Chris Kaman,Los Angeles Clippers,West,2017-08-21,C,7'0,265,27,2003,6,2010,Central Michigan,213,120,false
+Dwight Howard,Orlando Magic,East,2009-05-23,C,6'11,265,24,2004,5,2010,Southwest Atlanta Christian Academy (Georgia),211,120,false
+Carmelo Anthony,Denver Nuggets,West,2017-06-03,F,6'8,240,25,2003,6,2010,Syracuse,203,108,false
+Ben Gordon,Chicago Bulls,East,1995-05-09,SG,6'3,200,25,2004,4,2009,Connecticut,190,90,true
+Brandon Roy,Portland Trail Blazers,West,1985-12-26,G,6'6,211,24,2006,2,2009,Washington,198,95,false
+Dwight Howard,Orlando Magic,East,2011-01-31,C,6'11,265,23,2004,4,2009,Southwest Atlanta Christian Academy (Georgia),211,120,false
+Jason Kidd,Dallas Mavericks,West,2013-12-30,PG,6'4,210,35,1994,14,2009,California,193,95,true
+Dwight Howard,Orlando Magic,East,1981-07-02,C,6'11,265,23,2004,4,2009,Southwest Atlanta Christian Academy (Georgia),211,120,false
+Tony Parker,San Antonio Spurs,West,1994-01-10,G,6'2,185,26,2001,7,2009,Paris Basket Racing (France),188,83,true
+LeBron James,Cleveland Cavaliers,East,2004-02-25,F,6'8,250,24,2003,5,2009,St. Vincent St. Mary High School (Ohio),203,113,true
+Chris Paul,New Orleans Hornets,West,1992-01-06,PG,6'0,175,23,2005,3,2009,Wake Forest,183,79,true
+LeBron James,Cleveland Cavaliers,East,2004-08-07,F,6'8,250,24,2003,5,2009,St. Vincent St. Mary High School (Ohio),203,113,false
+Kobe Bryant,Los Angeles Lakers,West,1997-10-24,SG,6'6,212,30,1996,12,2009,Lower Merion High School (Pennsylvania),198,96,false
+Dwyane Wade,Miami Heat,East,2015-03-07,SG,6'4,220,27,2003,5,2009,Marquette,193,99,true
+Deron Williams,Utah Jazz,West,2005-09-26,PG,6'3,200,24,2005,3,2009,Illinois,190,90,false
+Devin Harris,New Jersey Nets,East,2004-08-23,G,6'3,185,26,2004,4,2009,Wisconsin,190,83,true
+David West,New Orleans Hornets,West,2014-03-23,PF,6'9,250,28,2003,5,2009,Xavier,206,113,true
+Dwight Howard,Orlando Magic,East,2014-03-05,C,6'11,265,23,2004,4,2009,Southwest Atlanta Christian Academy (Georgia),211,120,false
+Pau Gasol,Los Angeles Lakers,West,1997-09-19,FC,7'0,250,28,2001,7,2009,FC Barcelona Lassa (Spain),213,113,false
+LeBron James,Cleveland Cavaliers,East,1986-11-30,F,6'8,250,24,2003,5,2009,St. Vincent St. Mary High School (Ohio),203,113,false
+Pau Gasol,Los Angeles Lakers,West,1998-06-16,FC,7'0,250,28,2001,7,2009,FC Barcelona Lassa (Spain),213,113,false
+David Lee,New York Knicks,East,1996-12-22,FC,6'9,245,25,2005,3,2009,Florida,206,111,false
+Tony Parker,San Antonio Spurs,West,2015-03-15,G,6'2,185,26,2001,7,2009,Paris Basket Racing (France),188,83,false
+LeBron James,Cleveland Cavaliers,East,2013-03-13,F,6'8,250,24,2003,5,2009,St. Vincent St. Mary High School (Ohio),203,113,true
+Andrew Bynum,Los Angeles Lakers,West,2000-11-25,C,7'0,285,21,2005,3,2009,St. Joseph High School (New Jersey),213,129,true
+Jameer Nelson,Orlando Magic,East,1994-10-25,G,6'0,190,27,2004,4,2009,Saint Joseph's,183,86,false
+Chris Paul,New Orleans Hornets,West,2014-09-28,PG,6'0,175,23,2005,3,2009,Wake Forest,183,79,false
+Dwight Howard,Orlando Magic,East,2014-02-16,C,6'11,265,23,2004,4,2009,Southwest Atlanta Christian Academy (Georgia),211,120,true
+Kobe Bryant,Los Angeles Lakers,West,1980-05-04,SG,6'6,212,30,1996,12,2009,Lower Merion High School (Pennsylvania),198,96,false
+Rodney Stuckey,Detroit Pistons,East,2018-12-16,G,6'5,205,22,2007,1,2009,Eastern Washington,196,93,true
+Al Jefferson,Minnesota Timberwolves,West,2002-04-10,FC,6'10,289,24,2004,4,2009,Prentiss High School (Mississippi),208,131,true
+LeBron James,Cleveland Cavaliers,East,2002-01-04,F,6'8,250,24,2003,5,2009,St. Vincent St. Mary High School (Ohio),203,113,true
+Kobe Bryant,Los Angeles Lakers,West,1997-05-09,SG,6'6,212,30,1996,12,2009,Lower Merion High School (Pennsylvania),198,96,false
+Jameer Nelson,Orlando Magic,East,1994-02-27,G,6'0,190,27,2004,4,2009,Saint Joseph's,183,86,true
+Chris Paul,New Orleans Hornets,West,2009-11-30,PG,6'0,175,23,2005,3,2009,Wake Forest,183,79,true
+Al Harrington,New York Knicks,East,2005-06-19,F,6'9,245,29,1998,10,2009,St. Patrick High School (New Jersey),206,111,true
+Tim Duncan,San Antonio Spurs,West,1983-06-27,FC,6'11,250,32,1997,11,2009,Wake Forest,211,113,false
+Dwyane Wade,Miami Heat,East,1993-04-21,SG,6'4,220,27,2003,5,2009,Marquette,193,99,true
+Dirk Nowitzki,Dallas Mavericks,West,1993-07-13,PF,7'0,245,30,1998,10,2009,DJK Wurzburg (Germany),213,111,false
+Devin Harris,New Jersey Nets,East,1991-05-04,G,6'3,185,26,2004,4,2009,Wisconsin,190,83,true
+Brandon Roy,Portland Trail Blazers,West,1988-05-13,G,6'6,211,24,2006,2,2009,Washington,198,95,false
+Dwyane Wade,Miami Heat,East,2018-05-21,SG,6'4,220,27,2003,5,2009,Marquette,193,99,true
+Dirk Nowitzki,Dallas Mavericks,West,1993-01-06,PF,7'0,245,30,1998,10,2009,DJK Wurzburg (Germany),213,111,false
+LeBron James,Cleveland Cavaliers,East,2018-08-15,F,6'8,250,24,2003,5,2009,St. Vincent St. Mary High School (Ohio),203,113,true
+Chauncey Billups,Denver Nuggets,West,2020-05-30,G,6'3,210,32,1997,11,2009,Colorado,190,95,false
+LeBron James,Cleveland Cavaliers,East,2007-06-21,F,6'8,250,24,2003,5,2009,St. Vincent St. Mary High School (Ohio),203,113,true
+Amar'e Stoudemire,Phoenix Suns,West,1984-08-04,FC,6'10,245,26,2002,6,2009,Cypress Creek High School (Florida),208,111,true
+Chris Bosh,Toronto Raptors,East,2020-02-27,PF,6'11,235,24,2003,5,2009,Georgia Tech,211,106,true
+Chris Paul,New Orleans Hornets,West,2006-08-02,PG,6'0,175,23,2005,3,2009,Wake Forest,183,79,false
+Kevin Garnett,Boston Celtics,East,1995-05-24,PF,6'11,240,31,1995,12,2008,Farragut Career Academy (Illinois),211,108,false
+Allen Iverson,Denver Nuggets,West,1995-11-30,G,6'0,165,32,1996,11,2008,Georgetown,183,74,true
+Joe Johnson,Atlanta Hawks,East,2012-02-21,SG,6'7,240,26,2001,6,2008,Arkansas,201,108,true
+Kobe Bryant,Los Angeles Lakers,West,1989-07-16,SG,6'6,212,29,1996,11,2008,Lower Merion High School (Pennsylvania),198,96,false
+Jason Richardson,Charlotte Bobcats,East,1981-05-27,GF,6'6,225,27,2001,6,2008,Michigan State,198,102,true
+Carmelo Anthony,Denver Nuggets,West,2010-02-12,F,6'8,240,23,2003,4,2008,Syracuse,203,108,false
+Kevin Garnett,Boston Celtics,East,1987-04-07,PF,6'11,240,31,1995,12,2008,Farragut Career Academy (Illinois),211,108,false
+Chris Paul,New Orleans Hornets,West,2005-05-27,PG,6'0,175,22,2005,2,2008,Wake Forest,183,79,false
+Antawn Jamison,Washington Wizards,East,1997-04-20,F,6'9,235,31,1998,9,2008,North Carolina,206,106,true
+Amar'e Stoudemire,Phoenix Suns,West,2014-05-05,FC,6'10,245,25,2002,5,2008,Cypress Creek High School (Florida),208,111,true
+Jason Richardson,Charlotte Bobcats,East,2020-03-22,GF,6'6,225,27,2001,6,2008,Michigan State,198,102,false
+Tracy McGrady,Houston Rockets,West,1994-08-15,GF,6'8,210,28,1997,10,2008,Mt. Zion Christian Academy (North Carolina),203,95,true
+Andre Miller,Philadelphia Sixers,East,2013-02-02,PG,6'3,200,31,1999,8,2008,Utah,190,90,false
+Kobe Bryant,Los Angeles Lakers,West,1982-02-17,SG,6'6,212,29,1996,11,2008,Lower Merion High School (Pennsylvania),198,96,true
+LeBron James,Cleveland Cavaliers,East,2006-10-17,F,6'8,250,23,2003,4,2008,St. Vincent St. Mary High School (Ohio),203,113,true
+Manu Ginobili,San Antonio Spurs,West,1987-04-11,SG,6'6,205,30,1999,5,2008,Viola Reggio Calabria (Italy),198,93,false
+Andre Miller,Philadelphia Sixers,East,2004-05-02,PG,6'3,200,31,1999,8,2008,Utah,190,90,false
+Amar'e Stoudemire,Phoenix Suns,West,1981-11-14,FC,6'10,245,25,2002,5,2008,Cypress Creek High School (Florida),208,111,false
+Hedo Turkoglu,Orlando Magic,East,2014-09-30,F,6'10,220,28,2000,7,2008,Anadolu Efes (Turkey),208,99,false
+Brad Miller,Sacramento Kings,West,2010-09-17,C,7'0,261,31,1998,9,2008,Purdue,213,118,true
+Hedo Turkoglu,Orlando Magic,East,2010-09-23,F,6'10,220,28,2000,7,2008,Anadolu Efes (Turkey),208,99,true
+Al Jefferson,Minnesota Timberwolves,West,2017-01-24,FC,6'10,289,23,2004,3,2008,Prentiss High School (Mississippi),208,131,true
+Gerald Wallace,Charlotte Bobcats,East,2001-08-20,F,6'7,220,25,2001,6,2008,Alabama,201,99,false
+Baron Davis,Golden State Warriors,West,1982-04-25,G,6'3,215,28,1999,8,2008,UCLA,190,97,false
+Chris Bosh,Toronto Raptors,East,1990-07-11,PF,6'11,235,23,2003,4,2008,Georgia Tech,211,106,false
+Kobe Bryant,Los Angeles Lakers,West,1995-02-15,SG,6'6,212,29,1996,11,2008,Lower Merion High School (Pennsylvania),198,96,true
+LeBron James,Cleveland Cavaliers,East,2011-07-01,F,6'8,250,23,2003,4,2008,St. Vincent St. Mary High School (Ohio),203,113,false
+Allen Iverson,Denver Nuggets,West,2008-10-18,G,6'0,165,32,1996,11,2008,Georgetown,183,74,false
+Paul Pierce,Boston Celtics,East,2019-01-03,SF,6'7,235,30,1998,9,2008,Kansas,201,106,true
+Chris Paul,New Orleans Hornets,West,1995-06-15,PG,6'0,175,22,2005,2,2008,Wake Forest,183,79,true
+Joe Johnson,Atlanta Hawks,East,1994-04-18,SG,6'7,240,26,2001,6,2008,Arkansas,201,108,true
+Carmelo Anthony,Denver Nuggets,West,2020-03-25,F,6'8,240,23,2003,4,2008,Syracuse,203,108,false
+Paul Pierce,Boston Celtics,East,2000-05-23,SF,6'7,235,30,1998,9,2008,Kansas,201,106,false
+Brandon Roy,Portland Trail Blazers,West,1999-06-23,G,6'6,211,23,2006,1,2008,Washington,198,95,true
+Josh Smith,Atlanta Hawks,East,2020-09-17,PF,6'9,225,22,2004,3,2008,Oak Hill Academy (Virginia),206,102,true
+Brandon Roy,Portland Trail Blazers,West,2022-01-27,G,6'6,211,23,2006,1,2008,Washington,198,95,true
+Dwight Howard,Orlando Magic,East,2003-01-01,C,6'11,265,22,2004,3,2008,Southwest Atlanta Christian Academy (Georgia),211,120,false
+Stephen Jackson,Golden State Warriors,West,1988-10-10,GF,6'8,220,29,1997,10,2008,Butler CC,203,99,false
+LeBron James,Cleveland Cavaliers,East,2018-04-07,F,6'8,250,23,2003,4,2008,St. Vincent St. Mary High School (Ohio),203,113,false
+Tony Parker,San Antonio Spurs,West,2003-11-05,G,6'2,185,25,2001,6,2008,Paris Basket Racing (France),188,83,false
+Dwight Howard,Orlando Magic,East,1993-12-06,C,6'11,265,22,2004,3,2008,Southwest Atlanta Christian Academy (Georgia),211,120,true
+Allen Iverson,Denver Nuggets,West,2001-02-15,G,6'0,165,32,1996,11,2008,Georgetown,183,74,false
+Kevin Garnett,Boston Celtics,East,1984-10-02,PF,6'11,240,31,1995,12,2008,Farragut Career Academy (Illinois),211,108,false
+Yao Ming,Houston Rockets,West,2016-09-29,C,7'6,310,27,2002,5,2008,Shanghai Dongfang (China),229,140,false
+Danny Granger,Indiana Pacers,East,2013-09-01,GF,6'9,222,24,2005,2,2008,New Mexico,206,100,true
+Tracy McGrady,Houston Rockets,West,1997-11-13,GF,6'8,210,28,1997,10,2008,Mt. Zion Christian Academy (North Carolina),203,95,true
+Ben Gordon,Chicago Bulls,East,1991-12-19,SG,6'3,200,23,2004,2,2007,Connecticut,190,90,false
+Tracy McGrady,Houston Rockets,West,1985-02-10,GF,6'8,210,27,1997,9,2007,Mt. Zion Christian Academy (North Carolina),203,95,false
+Gerald Wallace,Charlotte Bobcats,East,2021-04-13,F,6'7,220,24,2001,5,2007,Alabama,201,99,true
+Tim Duncan,San Antonio Spurs,West,1995-01-07,FC,6'11,250,30,1997,9,2007,Wake Forest,211,113,false
+Chris Bosh,Toronto Raptors,East,1986-06-02,PF,6'11,235,22,2003,3,2007,Georgia Tech,211,106,false
+Yao Ming,Houston Rockets,West,1991-07-09,C,7'6,310,26,2002,4,2007,Shanghai Dongfang (China),229,140,false
+Gerald Wallace,Charlotte Bobcats,East,2007-05-19,F,6'7,220,24,2001,5,2007,Alabama,201,99,false
+Kobe Bryant,Los Angeles Lakers,West,2007-11-02,SG,6'6,212,28,1996,10,2007,Lower Merion High School (Pennsylvania),198,96,true
+Jason Kidd,New Jersey Nets,East,2008-04-15,PG,6'4,210,33,1994,12,2007,California,193,95,false
+Kobe Bryant,Los Angeles Lakers,West,2000-11-18,SG,6'6,212,28,1996,10,2007,Lower Merion High School (Pennsylvania),198,96,true
+LeBron James,Cleveland Cavaliers,East,1991-06-04,F,6'8,250,22,2003,3,2007,St. Vincent St. Mary High School (Ohio),203,113,true
+Manu Ginobili,San Antonio Spurs,West,2020-12-24,SG,6'6,205,29,1999,4,2007,Viola Reggio Calabria (Italy),198,93,true
+Al Jefferson,Boston Celtics,East,2009-12-30,FC,6'10,289,22,2004,2,2007,Prentiss High School (Mississippi),208,131,true
+Kevin Martin,Sacramento Kings,West,2001-06-26,SG,6'7,199,24,2004,2,2007,Western Carolina,201,90,true
+Vince Carter,New Jersey Nets,East,2019-03-09,SF,6'6,220,30,1998,8,2007,North Carolina,198,99,false
+Amar'e Stoudemire,Phoenix Suns,West,1996-10-29,FC,6'10,245,24,2002,4,2007,Cypress Creek High School (Florida),208,111,false
+Dwyane Wade,Miami Heat,East,1981-07-04,SG,6'4,220,25,2003,3,2007,Marquette,193,99,false
+Carmelo Anthony,Denver Nuggets,West,2005-09-12,F,6'8,240,22,2003,3,2007,Syracuse,203,108,false
+Dwyane Wade,Miami Heat,East,1985-05-22,SG,6'4,220,25,2003,3,2007,Marquette,193,99,false
+Mehmet Okur,Utah Jazz,West,1984-12-03,FC,6'11,249,27,2001,4,2007,Anadolu Efes (Turkey),211,113,true
+Ben Gordon,Chicago Bulls,East,2021-07-11,SG,6'3,200,23,2004,2,2007,Connecticut,190,90,true
+Steve Nash,Phoenix Suns,West,2012-04-19,G,6'3,178,33,1996,10,2007,Santa Clara,190,80,false
+Caron Butler,Washington Wizards,East,1991-01-17,SF,6'7,228,26,2002,4,2007,Connecticut,201,103,false
+Steve Nash,Phoenix Suns,West,2005-09-30,G,6'3,178,33,1996,10,2007,Santa Clara,190,80,true
+Dwyane Wade,Miami Heat,East,2001-11-24,SG,6'4,220,25,2003,3,2007,Marquette,193,99,false
+Dirk Nowitzki,Dallas Mavericks,West,1981-05-24,PF,7'0,245,28,1998,8,2007,DJK Wurzburg (Germany),213,111,false
+Gilbert Arenas,Washington Wizards,East,1997-10-24,G,6'3,191,25,2001,5,2007,Arizona,190,86,true
+Kevin Garnett,Minnesota Timberwolves,West,1981-04-24,PF,6'11,240,30,1995,11,2007,Farragut Career Academy (Illinois),211,108,true
+Michael Redd,Milwaukee Bucks,East,1988-04-13,G,6'6,220,27,2000,6,2007,Ohio State,198,99,false
+Josh Howard,Dallas Mavericks,West,2017-01-11,GF,6'7,210,26,2003,3,2007,Wake Forest,201,95,true
+Mo Williams,Milwaukee Bucks,East,2003-03-16,G,6'1,198,24,2003,3,2007,Alabama,185,89,true
+Josh Howard,Dallas Mavericks,West,2009-11-25,GF,6'7,210,26,2003,3,2007,Wake Forest,201,95,false
+Gilbert Arenas,Washington Wizards,East,1988-03-16,G,6'3,191,25,2001,5,2007,Arizona,190,86,false
+Carlos Boozer,Utah Jazz,West,2000-07-13,PF,6'9,266,25,2002,4,2007,Duke,206,120,false
+Gilbert Arenas,Washington Wizards,East,2013-11-27,G,6'3,191,25,2001,5,2007,Arizona,190,86,false
+Steve Nash,Phoenix Suns,West,1994-06-12,G,6'3,178,33,1996,10,2007,Santa Clara,190,80,true
+Michael Redd,Milwaukee Bucks,East,2006-09-29,G,6'6,220,27,2000,6,2007,Ohio State,198,99,false
+Carmelo Anthony,Denver Nuggets,West,1993-10-31,F,6'8,240,22,2003,3,2007,Syracuse,203,108,true
+Dwight Howard,Orlando Magic,East,2004-01-05,C,6'11,265,21,2004,2,2007,Southwest Atlanta Christian Academy (Georgia),211,120,true
+Carmelo Anthony,Denver Nuggets,West,1998-05-03,F,6'8,240,22,2003,3,2007,Syracuse,203,108,false
+LeBron James,Cleveland Cavaliers,East,1980-01-26,F,6'8,250,22,2003,3,2007,St. Vincent St. Mary High School (Ohio),203,113,false
+Dirk Nowitzki,Dallas Mavericks,West,2006-02-01,PF,7'0,245,28,1998,8,2007,DJK Wurzburg (Germany),213,111,false
+Joe Johnson,Atlanta Hawks,East,1997-07-18,SG,6'7,240,25,2001,5,2007,Arkansas,201,108,true
+Yao Ming,Houston Rockets,West,2006-11-21,C,7'6,310,26,2002,4,2007,Shanghai Dongfang (China),229,140,true
+Allen Iverson,Philadelphia Sixers,East,1992-08-04,G,6'0,165,31,1996,10,2007,Georgetown,183,74,true
+Carlos Boozer,Utah Jazz,West,1982-12-13,PF,6'9,266,25,2002,4,2007,Duke,206,120,false
+Ben Gordon,Chicago Bulls,East,2017-03-22,SG,6'3,200,22,2004,1,2006,Connecticut,190,90,false
+Kobe Bryant,Los Angeles Lakers,West,2015-02-25,SG,6'6,212,27,1996,9,2006,Lower Merion High School (Pennsylvania),198,96,false
+Jamal Crawford,New York Knicks,East,2010-03-25,SG,6'5,195,25,2000,5,2006,Michigan,196,88,true
+Chris Wilcox,Seattle SuperSonics,West,2010-10-16,FC,6'10,235,23,2002,3,2006,Maryland,208,106,false
+LeBron James,Cleveland Cavaliers,East,2021-05-27,F,6'8,250,21,2003,2,2006,St. Vincent St. Mary High School (Ohio),203,113,false
+Yao Ming,Houston Rockets,West,2015-04-13,C,7'6,310,25,2002,3,2006,Shanghai Dongfang (China),229,140,false
+LeBron James,Cleveland Cavaliers,East,1989-12-12,F,6'8,250,21,2003,2,2006,St. Vincent St. Mary High School (Ohio),203,113,true
+Pau Gasol,Memphis Grizzlies,West,1997-10-04,FC,7'0,250,25,2001,4,2006,FC Barcelona Lassa (Spain),213,113,true
+LeBron James,Cleveland Cavaliers,East,1995-09-09,F,6'8,250,21,2003,2,2006,St. Vincent St. Mary High School (Ohio),203,113,true
+Carmelo Anthony,Denver Nuggets,West,1998-10-22,F,6'8,240,21,2003,2,2006,Syracuse,203,108,true
+Paul Pierce,Boston Celtics,East,2011-12-25,SF,6'7,235,28,1998,7,2006,Kansas,201,106,false
+Mike Bibby,Sacramento Kings,West,1985-03-10,G,6'2,195,27,1998,7,2006,Arizona,188,88,false
+Allen Iverson,Philadelphia Sixers,East,2018-01-31,G,6'0,165,30,1996,9,2006,Georgetown,183,74,true
+Pau Gasol,Memphis Grizzlies,West,1993-04-26,FC,7'0,250,25,2001,4,2006,FC Barcelona Lassa (Spain),213,113,true
+Gilbert Arenas,Washington Wizards,East,1996-10-16,G,6'3,191,24,2001,4,2006,Arizona,190,86,false
+Yao Ming,Houston Rockets,West,1981-07-14,C,7'6,310,25,2002,3,2006,Shanghai Dongfang (China),229,140,false
+Gilbert Arenas,Washington Wizards,East,1998-01-29,G,6'3,191,24,2001,4,2006,Arizona,190,86,true
+Tony Parker,San Antonio Spurs,West,1996-12-06,G,6'2,185,23,2001,4,2006,Paris Basket Racing (France),188,83,false
+Chris Bosh,Toronto Raptors,East,1989-02-09,PF,6'11,235,21,2003,2,2006,Georgia Tech,211,106,true
+Chris Paul,New Orleans Hornets,West,1979-09-29,PG,6'0,175,20,2005,0,2006,Wake Forest,183,79,true
+LeBron James,Cleveland Cavaliers,East,1996-01-30,F,6'8,250,21,2003,2,2006,St. Vincent St. Mary High School (Ohio),203,113,false
+Elton Brand,Los Angeles Clippers,West,1996-08-15,PF,6'9,254,26,1999,6,2006,Duke,206,115,false
+Richard Hamilton,Detroit Pistons,East,1994-10-12,SG,6'7,193,28,1999,6,2006,Connecticut,201,87,true
+Kobe Bryant,Los Angeles Lakers,West,2005-01-09,SG,6'6,212,27,1996,9,2006,Lower Merion High School (Pennsylvania),198,96,false
+Allen Iverson,Philadelphia Sixers,East,2008-12-18,G,6'0,165,30,1996,9,2006,Georgetown,183,74,false
+Kevin Garnett,Minnesota Timberwolves,West,1994-07-08,PF,6'11,240,29,1995,10,2006,Farragut Career Academy (Illinois),211,108,true
+Mike James,Toronto Raptors,East,1980-12-07,G,6'2,188,30,1998,4,2006,Duquesne,188,85,false
+Steve Nash,Phoenix Suns,West,2013-08-12,G,6'3,178,32,1996,9,2006,Santa Clara,190,80,true
+Dwyane Wade,Miami Heat,East,1982-11-24,SG,6'4,220,24,2003,2,2006,Marquette,193,99,false
+Shawn Marion,Phoenix Suns,West,2017-09-06,F,6'7,228,27,1999,6,2006,UNLV,201,103,false
+Vince Carter,New Jersey Nets,East,1998-11-13,SF,6'6,220,29,1998,7,2006,North Carolina,198,99,false
+Kobe Bryant,Los Angeles Lakers,West,1983-03-25,SG,6'6,212,27,1996,9,2006,Lower Merion High School (Pennsylvania),198,96,false
+Joe Johnson,Atlanta Hawks,East,2015-10-12,SG,6'7,240,24,2001,4,2006,Arkansas,201,108,true
+Kobe Bryant,Los Angeles Lakers,West,1994-10-16,SG,6'6,212,27,1996,9,2006,Lower Merion High School (Pennsylvania),198,96,false
+Allen Iverson,Philadelphia Sixers,East,2011-07-27,G,6'0,165,30,1996,9,2006,Georgetown,183,74,false
+Elton Brand,Los Angeles Clippers,West,1984-09-15,PF,6'9,254,26,1999,6,2006,Duke,206,115,true
+Dwyane Wade,Miami Heat,East,2019-10-16,SG,6'4,220,24,2003,2,2006,Marquette,193,99,false
+Baron Davis,Golden State Warriors,West,2006-07-16,G,6'3,215,26,1999,6,2006,UCLA,190,97,false
+Gerald Wallace,Charlotte Bobcats,East,1984-09-24,F,6'7,220,23,2001,4,2006,Alabama,201,99,false
+Steve Nash,Phoenix Suns,West,1988-05-14,G,6'3,178,32,1996,9,2006,Santa Clara,190,80,true
+LeBron James,Cleveland Cavaliers,East,1992-08-16,F,6'8,250,21,2003,2,2006,St. Vincent St. Mary High School (Ohio),203,113,true
+Elton Brand,Los Angeles Clippers,West,2001-05-08,PF,6'9,254,26,1999,6,2006,Duke,206,115,false
+Gilbert Arenas,Washington Wizards,East,1981-07-22,G,6'3,191,24,2001,4,2006,Arizona,190,86,true
+Marcus Camby,Denver Nuggets,West,2013-10-10,C,6'11,240,31,1996,9,2006,Massachusetts,211,108,true
+T.J. Ford,Milwaukee Bucks,East,2003-05-06,PG,6'0,165,22,2003,2,2006,Texas,183,74,false
+Kobe Bryant,Los Angeles Lakers,West,1994-02-06,SG,6'6,212,27,1996,9,2006,Lower Merion High School (Pennsylvania),198,96,true
+Jason Kidd,New Jersey Nets,East,2000-01-21,PG,6'4,210,31,1994,10,2005,California,193,95,true
+Tracy McGrady,Houston Rockets,West,1989-12-15,GF,6'8,210,25,1997,7,2005,Mt. Zion Christian Academy (North Carolina),203,95,true
+Vince Carter,New Jersey Nets,East,2002-08-18,SF,6'6,220,28,1998,6,2005,North Carolina,198,99,false
+Baron Davis,Golden State Warriors,West,1987-11-28,G,6'3,215,25,1999,5,2005,UCLA,190,97,false
+Reggie Miller,Indiana Pacers,East,2018-06-11,SG,6'7,185,39,1987,17,2005,UCLA,201,83,true
+Baron Davis,Golden State Warriors,West,1985-03-11,G,6'3,215,25,1999,5,2005,UCLA,190,97,false
+Allen Iverson,Philadelphia Sixers,East,2004-05-15,G,6'0,165,29,1996,8,2005,Georgetown,183,74,true
+Ray Allen,Seattle SuperSonics,West,2001-02-10,SG,6'5,205,29,1996,8,2005,Connecticut,196,93,false
+Chauncey Billups,Detroit Pistons,East,1986-11-09,G,6'3,210,28,1997,7,2005,Colorado,190,95,false
+Jason Richardson,Golden State Warriors,West,2012-02-23,GF,6'6,225,24,2001,3,2005,Michigan State,198,102,false
+Paul Pierce,Boston Celtics,East,1986-05-15,SF,6'7,235,27,1998,6,2005,Kansas,201,106,false
+Tracy McGrady,Houston Rockets,West,2002-05-13,GF,6'8,210,25,1997,7,2005,Mt. Zion Christian Academy (North Carolina),203,95,true
+Allen Iverson,Philadelphia Sixers,East,1995-12-25,G,6'0,165,29,1996,8,2005,Georgetown,183,74,false
+Marcus Camby,Denver Nuggets,West,2008-05-17,C,6'11,240,30,1996,8,2005,Massachusetts,211,108,false
+Jalen Rose,Toronto Raptors,East,1984-09-28,G,6'8,210,32,1994,10,2005,Michigan,203,95,true
+Mike Bibby,Sacramento Kings,West,1992-01-20,G,6'2,195,26,1998,6,2005,Arizona,188,88,true
+Allen Iverson,Philadelphia Sixers,East,1981-09-29,G,6'0,165,29,1996,8,2005,Georgetown,183,74,false
+Steve Nash,Phoenix Suns,West,2010-02-20,G,6'3,178,31,1996,8,2005,Santa Clara,190,80,true
+Paul Pierce,Boston Celtics,East,2008-08-25,SF,6'7,235,27,1998,6,2005,Kansas,201,106,true
+Tracy McGrady,Houston Rockets,West,1993-05-27,GF,6'8,210,25,1997,7,2005,Mt. Zion Christian Academy (North Carolina),203,95,true
+Vince Carter,New Jersey Nets,East,2005-11-19,SF,6'6,220,28,1998,6,2005,North Carolina,198,99,false
+Brad Miller,Sacramento Kings,West,1993-12-04,C,7'0,261,28,1998,6,2005,Purdue,213,118,false
+LeBron James,Cleveland Cavaliers,East,1992-12-03,F,6'8,250,20,2003,1,2005,St. Vincent St. Mary High School (Ohio),203,113,false
+Jason Terry,Dallas Mavericks,West,2007-09-22,G,6'2,185,27,1999,5,2005,Arizona,188,83,false
+Larry Hughes,Washington Wizards,East,2014-09-13,G,6'5,184,26,1998,6,2005,Saint Louis,196,83,false
+Tracy McGrady,Houston Rockets,West,1984-11-30,GF,6'8,210,25,1997,7,2005,Mt. Zion Christian Academy (North Carolina),203,95,true
+Chris Bosh,Toronto Raptors,East,1994-06-04,PF,6'11,235,20,2003,1,2005,Georgia Tech,211,106,true
+Bruce Bowen,San Antonio Spurs,West,1995-02-26,F,6'7,200,33,1993,9,2005,Cal State Fullerton,201,90,true
+Stephon Marbury,New York Knicks,East,1989-07-05,G,6'2,180,28,1996,8,2005,Georgia Tech,188,81,true
+Pau Gasol,Memphis Grizzlies,West,1992-12-08,FC,7'0,250,24,2001,3,2005,FC Barcelona Lassa (Spain),213,113,true
+Allen Iverson,Philadelphia Sixers,East,2018-01-02,G,6'0,165,29,1996,8,2005,Georgetown,183,74,false
+Steve Nash,Phoenix Suns,West,2006-01-29,G,6'3,178,31,1996,8,2005,Santa Clara,190,80,true
+Shaquille O'Neal,Miami Heat,East,1995-07-27,C,7'1,325,32,1992,12,2005,LSU,216,147,true
+Shawn Marion,Phoenix Suns,West,2009-02-24,F,6'7,228,26,1999,5,2005,UNLV,201,103,true
+Richard Jefferson,New Jersey Nets,East,2000-09-13,SF,6'7,233,24,2001,3,2005,Arizona,201,105,false
+Amar'e Stoudemire,Phoenix Suns,West,1988-01-14,FC,6'10,245,22,2002,2,2005,Cypress Creek High School (Florida),208,111,false
+Gilbert Arenas,Washington Wizards,East,2002-06-19,G,6'3,191,23,2001,3,2005,Arizona,190,86,true
+Dirk Nowitzki,Dallas Mavericks,West,1985-08-05,PF,7'0,245,26,1998,6,2005,DJK Wurzburg (Germany),213,111,true
+LeBron James,Cleveland Cavaliers,East,2010-08-12,F,6'8,250,20,2003,1,2005,St. Vincent St. Mary High School (Ohio),203,113,true
+Shawn Marion,Phoenix Suns,West,2014-09-01,F,6'7,228,26,1999,5,2005,UNLV,201,103,false
+Grant Hill,Orlando Magic,East,2002-11-01,SF,6'8,225,32,1994,10,2005,Duke,203,102,true
+Amar'e Stoudemire,Phoenix Suns,West,2015-03-14,FC,6'10,245,22,2002,2,2005,Cypress Creek High School (Florida),208,111,true
+LeBron James,Cleveland Cavaliers,East,2004-07-14,F,6'8,250,20,2003,1,2005,St. Vincent St. Mary High School (Ohio),203,113,true
+Ray Allen,Seattle SuperSonics,West,1996-11-09,SG,6'5,205,29,1996,8,2005,Connecticut,196,93,false
+Dwyane Wade,Miami Heat,East,2017-11-12,SG,6'4,220,23,2003,1,2005,Marquette,193,99,true
+Kevin Garnett,Minnesota Timberwolves,West,2006-07-28,PF,6'11,240,28,1995,9,2005,Farragut Career Academy (Illinois),211,108,false
+Jamaal Magloire,New Orleans Hornets,East,1996-08-25,C,6'11,259,25,2000,3,2004,Kentucky,211,117,false
+Carmelo Anthony,Denver Nuggets,West,1982-04-23,F,6'8,240,19,2003,0,2004,Syracuse,203,108,true
+Richard Jefferson,New Jersey Nets,East,2007-01-10,SF,6'7,233,23,2001,2,2004,Arizona,201,105,false
+Dirk Nowitzki,Dallas Mavericks,West,1999-09-16,PF,7'0,245,25,1998,5,2004,DJK Wurzburg (Germany),213,111,false
+Metta World Peace,Indiana Pacers,East,1986-06-08,SF,6'7,260,24,1999,4,2004,St. John's,201,118,true
+Kobe Bryant,Los Angeles Lakers,West,2004-03-25,SG,6'6,212,25,1996,7,2004,Lower Merion High School (Pennsylvania),198,96,true
+Vince Carter,Toronto Raptors,East,1998-12-28,SF,6'6,220,27,1998,5,2004,North Carolina,198,99,true
+Shaquille O'Neal,Los Angeles Lakers,West,1986-05-28,C,7'1,325,31,1992,11,2004,LSU,216,147,true
+Zydrunas Ilgauskas,Cleveland Cavaliers,East,2004-12-03,C,7'3,260,28,1996,7,2004,BC Aisciai-Atletas (Lithuania),221,118,true
+Carmelo Anthony,Denver Nuggets,West,2008-09-10,F,6'8,240,19,2003,0,2004,Syracuse,203,108,true
+Lamar Odom,Miami Heat,East,2001-02-23,PF,6'10,230,24,1999,4,2004,Rhode Island,208,104,true
+Yao Ming,Houston Rockets,West,1988-08-05,C,7'6,310,23,2002,1,2004,Shanghai Dongfang (China),229,140,true
+Ben Wallace,Detroit Pistons,East,2016-09-19,FC,6'9,240,29,1996,7,2004,Virginia Union,206,108,true
+Andrei Kirilenko,Utah Jazz,West,2016-09-13,PF,6'9,235,23,1999,2,2004,CSKA Moscow (Russia),206,106,true
+Dwyane Wade,Miami Heat,East,2007-11-11,SG,6'4,220,22,2003,0,2004,Marquette,193,99,true
+Kobe Bryant,Los Angeles Lakers,West,2000-08-04,SG,6'6,212,25,1996,7,2004,Lower Merion High School (Pennsylvania),198,96,false
+Kenyon Martin,New Jersey Nets,East,2005-06-28,F,6'9,240,26,2000,3,2004,Cincinnati,206,108,true
+Tim Duncan,San Antonio Spurs,West,1986-10-08,FC,6'11,250,27,1997,6,2004,Wake Forest,211,113,false
+Jason Kidd,New Jersey Nets,East,2008-08-02,PG,6'4,210,30,1994,9,2004,California,193,95,false
+Kevin Garnett,Minnesota Timberwolves,West,1984-05-17,PF,6'11,240,27,1995,8,2004,Farragut Career Academy (Illinois),211,108,false
+Carlos Boozer,Cleveland Cavaliers,East,1995-04-30,PF,6'9,266,22,2002,1,2004,Duke,206,120,false
+Kevin Garnett,Minnesota Timberwolves,West,2009-09-12,PF,6'11,240,27,1995,8,2004,Farragut Career Academy (Illinois),211,108,false
+Stephon Marbury,New York Knicks,East,1988-07-27,G,6'2,180,27,1996,7,2004,Georgia Tech,188,81,false
+Michael Finley,Dallas Mavericks,West,1995-03-28,GF,6'7,225,30,1995,8,2004,Wisconsin,201,102,false
+Paul Pierce,Boston Celtics,East,1990-10-16,SF,6'7,235,26,1998,5,2004,Kansas,201,106,false
+Ray Allen,Seattle SuperSonics,West,1999-01-09,SG,6'5,205,28,1996,7,2004,Connecticut,196,93,false
+Ben Wallace,Detroit Pistons,East,1984-10-26,FC,6'9,240,29,1996,7,2004,Virginia Union,206,108,false
+Elton Brand,Los Angeles Clippers,West,1981-12-11,PF,6'9,254,24,1999,4,2004,Duke,206,115,false
+Jason Kidd,New Jersey Nets,East,2011-07-16,PG,6'4,210,30,1994,9,2004,California,193,95,false
+Sam Cassell,Minnesota Timberwolves,West,1983-04-04,G,6'3,185,34,1993,10,2004,Florida State,190,83,false
+Tracy McGrady,Orlando Magic,East,1982-02-20,GF,6'8,210,24,1997,6,2004,Mt. Zion Christian Academy (North Carolina),203,95,true
+Kevin Garnett,Minnesota Timberwolves,West,2016-01-01,PF,6'11,240,27,1995,8,2004,Farragut Career Academy (Illinois),211,108,true
+Paul Pierce,Boston Celtics,East,2003-09-03,SF,6'7,235,26,1998,5,2004,Kansas,201,106,false
+Peja Stojakovic,Sacramento Kings,West,1996-05-10,F,6'10,229,26,1996,5,2004,PAOK BC (Greece),208,103,false
+Vince Carter,Toronto Raptors,East,2013-04-09,SF,6'6,220,27,1998,5,2004,North Carolina,198,99,false
+Shaquille O'Neal,Los Angeles Lakers,West,2016-08-18,C,7'1,325,31,1992,11,2004,LSU,216,147,false
+Dikembe Mutombo,New York Knicks,East,1987-11-16,C,7'2,260,37,1991,12,2004,Georgetown,218,118,false
+Voshon Lenard,Denver Nuggets,West,1996-05-25,SG,6'4,205,30,1994,8,2004,Minnesota,193,93,true
+Chauncey Billups,Detroit Pistons,East,1994-10-31,G,6'3,210,27,1997,6,2004,Colorado,190,95,false
+Kevin Garnett,Minnesota Timberwolves,West,2021-08-03,PF,6'11,240,27,1995,8,2004,Farragut Career Academy (Illinois),211,108,true
+Allen Iverson,Philadelphia Sixers,East,1996-05-20,G,6'0,165,28,1996,7,2004,Georgetown,183,74,false
+Quentin Richardson,Los Angeles Clippers,West,1999-03-23,GF,6'6,223,23,2000,3,2004,DePaul,198,101,true
+Metta World Peace,Indiana Pacers,East,2004-02-28,SF,6'7,260,24,1999,4,2004,St. John's,201,118,false
+Andrei Kirilenko,Utah Jazz,West,1983-09-22,PF,6'9,235,23,1999,2,2004,CSKA Moscow (Russia),206,106,false
+Baron Davis,New Orleans Hornets,East,2005-11-25,G,6'3,215,24,1999,4,2004,UCLA,190,97,true
+Rashard Lewis,Seattle SuperSonics,West,1992-11-10,F,6'10,235,24,1998,5,2004,Alief Elsik High School (Texas),208,106,false
+Tracy McGrady,Orlando Magic,East,1993-11-01,GF,6'8,210,23,1997,5,2003,Mt. Zion Christian Academy (North Carolina),203,95,true
+Shawn Marion,Phoenix Suns,West,2017-09-25,F,6'7,228,24,1999,3,2003,UNLV,201,103,false
+Jason Kidd,New Jersey Nets,East,2003-11-12,PG,6'4,210,29,1994,8,2003,California,193,95,false
+Shaquille O'Neal,Los Angeles Lakers,West,1990-02-15,C,7'1,325,30,1992,10,2003,LSU,216,147,true
+Richard Jefferson,New Jersey Nets,East,2020-09-17,SF,6'7,233,22,2001,1,2003,Arizona,201,105,true
+Tim Duncan,San Antonio Spurs,West,1989-12-28,FC,6'11,250,26,1997,5,2003,Wake Forest,211,113,true
+Ben Wallace,Detroit Pistons,East,1979-11-16,FC,6'9,240,28,1996,6,2003,Virginia Union,206,108,true
+Peja Stojakovic,Sacramento Kings,West,1988-09-08,F,6'10,229,25,1996,4,2003,PAOK BC (Greece),208,103,true
+Allen Iverson,Philadelphia Sixers,East,2002-06-24,G,6'0,165,27,1996,6,2003,Georgetown,183,74,false
+Steve Francis,Houston Rockets,West,2020-07-05,G,6'3,195,26,1999,3,2003,Maryland,190,88,true
+Tracy McGrady,Orlando Magic,East,2000-02-05,GF,6'8,210,23,1997,5,2003,Mt. Zion Christian Academy (North Carolina),203,95,false
+Shaquille O'Neal,Los Angeles Lakers,West,1998-03-15,C,7'1,325,30,1992,10,2003,LSU,216,147,true
+Michael Jordan,Washington Wizards,East,1983-10-14,SG,6'6,215,40,1984,14,2003,North Carolina,198,97,false
+Ray Allen,Seattle SuperSonics,West,1995-10-25,SG,6'5,205,27,1996,6,2003,Connecticut,196,93,false
+Tracy McGrady,Orlando Magic,East,2012-09-26,GF,6'8,210,23,1997,5,2003,Mt. Zion Christian Academy (North Carolina),203,95,false
+Kobe Bryant,Los Angeles Lakers,West,1997-12-04,SG,6'6,212,24,1996,6,2003,Lower Merion High School (Pennsylvania),198,96,true
+Allan Houston,New York Knicks,East,1999-12-22,G,6'6,205,31,1993,9,2003,Tennessee,198,93,false
+Tim Duncan,San Antonio Spurs,West,1981-12-19,FC,6'11,250,26,1997,5,2003,Wake Forest,211,113,false
+Chauncey Billups,Detroit Pistons,East,1992-07-19,G,6'3,210,26,1997,5,2003,Colorado,190,95,false
+Kobe Bryant,Los Angeles Lakers,West,1979-12-04,SG,6'6,212,24,1996,6,2003,Lower Merion High School (Pennsylvania),198,96,false
+Paul Pierce,Boston Celtics,East,1985-03-16,SF,6'7,235,25,1998,4,2003,Kansas,201,106,false
+Tim Duncan,San Antonio Spurs,West,2015-10-10,FC,6'11,250,26,1997,5,2003,Wake Forest,211,113,true
+Antoine Walker,Boston Celtics,East,2005-07-17,F,6'9,265,26,1996,6,2003,Kentucky,206,120,false
+Steve Francis,Houston Rockets,West,1999-11-17,G,6'3,195,26,1999,3,2003,Maryland,190,88,false
+Jermaine O'Neal,Indiana Pacers,East,1988-05-21,FC,6'11,235,24,1996,6,2003,Eau Claire High School (South Carolina),211,106,true
+Kobe Bryant,Los Angeles Lakers,West,2020-01-11,SG,6'6,212,24,1996,6,2003,Lower Merion High School (Pennsylvania),198,96,false
+Stephon Marbury,Phoenix Suns,West,1993-07-12,G,6'2,180,26,1996,6,2003,Georgia Tech,188,81,false
+Michael Jordan,Washington Wizards,East,1997-07-30,SG,6'6,215,40,1984,14,2003,North Carolina,198,97,true
+Dirk Nowitzki,Dallas Mavericks,West,1980-02-20,PF,7'0,245,24,1998,4,2003,DJK Wurzburg (Germany),213,111,true
+Lucious Harris,New Jersey Nets,East,1991-11-06,SG,6'5,190,32,1993,9,2003,Long Beach State,196,86,true
+Tim Duncan,San Antonio Spurs,West,2019-12-01,FC,6'11,250,26,1997,5,2003,Wake Forest,211,113,false
+Jason Kidd,New Jersey Nets,East,2005-03-02,PG,6'4,210,29,1994,8,2003,California,193,95,true
+Tim Duncan,San Antonio Spurs,West,2015-05-11,FC,6'11,250,26,1997,5,2003,Wake Forest,211,113,false
+Antoine Walker,Boston Celtics,East,1993-08-24,F,6'9,265,26,1996,6,2003,Kentucky,206,120,true
+Chris Webber,Sacramento Kings,West,1997-07-30,FC,6'9,245,29,1993,9,2003,Michigan,206,111,false
+Paul Pierce,Boston Celtics,East,2004-10-20,SF,6'7,235,25,1998,4,2003,Kansas,201,106,true
+Kobe Bryant,Los Angeles Lakers,West,2004-05-19,SG,6'6,212,24,1996,6,2003,Lower Merion High School (Pennsylvania),198,96,true
+Allen Iverson,Philadelphia Sixers,East,1990-03-02,G,6'0,165,27,1996,6,2003,Georgetown,183,74,false
+Stephon Marbury,Phoenix Suns,West,2021-02-07,G,6'2,180,26,1996,6,2003,Georgia Tech,188,81,false
+Allen Iverson,Philadelphia Sixers,East,1992-08-26,G,6'0,165,27,1996,6,2003,Georgetown,183,74,false
+Kevin Garnett,Minnesota Timberwolves,West,1989-08-23,PF,6'11,240,26,1995,7,2003,Farragut Career Academy (Illinois),211,108,true
+Metta World Peace,Indiana Pacers,East,2006-09-20,SF,6'7,260,23,1999,3,2003,St. John's,201,118,false
+Rashard Lewis,Seattle SuperSonics,West,2009-12-31,F,6'10,235,23,1998,4,2003,Alief Elsik High School (Texas),208,106,false
+Jerry Stackhouse,Washington Wizards,East,2012-05-23,SF,6'6,218,28,1995,7,2003,North Carolina,198,98,true
+Dirk Nowitzki,Dallas Mavericks,West,1988-04-05,PF,7'0,245,24,1998,4,2003,DJK Wurzburg (Germany),213,111,false
+Glenn Robinson,Atlanta Hawks,East,1997-05-10,SF,6'7,225,30,1994,8,2003,Purdue,201,102,true
+Kobe Bryant,Los Angeles Lakers,West,1988-06-13,SG,6'6,212,24,1996,6,2003,Lower Merion High School (Pennsylvania),198,96,true
+Paul Pierce,Boston Celtics,East,1988-02-11,SF,6'7,235,24,1998,3,2002,Kansas,201,106,false
+Tim Duncan,San Antonio Spurs,West,2006-05-02,FC,6'11,250,25,1997,4,2002,Wake Forest,211,113,false
+Ben Wallace,Detroit Pistons,East,2021-11-26,FC,6'9,240,27,1996,5,2002,Virginia Union,206,108,true
+Shawn Marion,Phoenix Suns,West,2019-06-05,F,6'7,228,23,1999,2,2002,UNLV,201,103,false
+Jason Kidd,New Jersey Nets,East,2012-03-16,PG,6'4,210,28,1994,7,2002,California,193,95,false
+Tim Duncan,San Antonio Spurs,West,2013-01-28,FC,6'11,250,25,1997,4,2002,Wake Forest,211,113,true
+Tracy McGrady,Orlando Magic,East,1982-07-16,GF,6'8,210,22,1997,4,2002,Mt. Zion Christian Academy (North Carolina),203,95,false
+Tim Duncan,San Antonio Spurs,West,1983-07-19,FC,6'11,250,25,1997,4,2002,Wake Forest,211,113,true
+Kurt Thomas,New York Knicks,East,1988-11-10,FC,6'9,240,29,1995,6,2002,Texas Christian,206,108,true
+Shaquille O'Neal,Los Angeles Lakers,West,1988-03-13,C,7'1,325,29,1992,9,2002,LSU,216,147,false
+Allen Iverson,Philadelphia Sixers,East,2004-04-03,G,6'0,165,26,1996,5,2002,Georgetown,183,74,true
+Rasheed Wallace,Portland Trail Blazers,West,1985-09-29,FC,6'11,230,27,1995,6,2002,North Carolina,211,104,false
+Ben Wallace,Detroit Pistons,East,2017-03-18,FC,6'9,240,27,1996,5,2002,Virginia Union,206,108,false
+Shaquille O'Neal,Los Angeles Lakers,West,1983-04-14,C,7'1,325,29,1992,9,2002,LSU,216,147,false
+Andre Miller,Cleveland Cavaliers,East,1997-10-22,PG,6'3,200,25,1999,2,2002,Utah,190,90,false
+Karl Malone,Utah Jazz,West,2007-03-15,PF,6'9,265,38,1985,16,2002,Louisiana Tech,206,120,true
+Jason Kidd,New Jersey Nets,East,2006-09-11,PG,6'4,210,28,1994,7,2002,California,193,95,false
+Shaquille O'Neal,Los Angeles Lakers,West,1997-12-31,C,7'1,325,29,1992,9,2002,LSU,216,147,true
+Allen Iverson,Philadelphia Sixers,East,2019-01-29,G,6'0,165,26,1996,5,2002,Georgetown,183,74,false
+Dirk Nowitzki,Dallas Mavericks,West,1987-04-04,PF,7'0,245,23,1998,3,2002,DJK Wurzburg (Germany),213,111,false
+Allen Iverson,Philadelphia Sixers,East,1988-12-05,G,6'0,165,26,1996,5,2002,Georgetown,183,74,false
+Kobe Bryant,Los Angeles Lakers,West,1988-02-27,SG,6'6,212,23,1996,5,2002,Lower Merion High School (Pennsylvania),198,96,false
+Ray Allen,Milwaukee Bucks,East,2012-08-29,SG,6'5,205,26,1996,5,2002,Connecticut,196,93,false
+Kevin Garnett,Minnesota Timberwolves,West,2019-01-02,PF,6'11,240,25,1995,6,2002,Farragut Career Academy (Illinois),211,108,false
+Eddie Jones,Miami Heat,East,2020-03-21,GF,6'6,200,30,1994,7,2002,Temple,198,90,false
+Chris Webber,Sacramento Kings,West,1988-09-22,FC,6'9,245,28,1993,8,2002,Michigan,206,111,false
+Jason Kidd,New Jersey Nets,East,1983-10-16,PG,6'4,210,28,1994,7,2002,California,193,95,false
+Tim Duncan,San Antonio Spurs,West,1982-01-05,FC,6'11,250,25,1997,4,2002,Wake Forest,211,113,false
+Jermaine O'Neal,Indiana Pacers,East,2011-05-02,FC,6'11,235,23,1996,5,2002,Eau Claire High School (South Carolina),211,106,true
+Gary Payton,Seattle SuperSonics,West,1982-09-13,G,6'4,180,33,1990,11,2002,Oregon State,193,81,true
+Richard Hamilton,Washington Wizards,East,1995-06-17,SG,6'7,193,24,1999,2,2002,Connecticut,201,87,true
+Steve Nash,Dallas Mavericks,West,2005-02-05,G,6'3,178,28,1996,5,2002,Santa Clara,190,80,false
+Andre Miller,Cleveland Cavaliers,East,1985-11-15,PG,6'3,200,25,1999,2,2002,Utah,190,90,true
+Elton Brand,Los Angeles Clippers,West,2004-03-08,PF,6'9,254,22,1999,2,2002,Duke,206,115,true
+Paul Pierce,Boston Celtics,East,1980-07-01,SF,6'7,235,24,1998,3,2002,Kansas,201,106,true
+Stephon Marbury,Phoenix Suns,West,1989-11-29,G,6'2,180,25,1996,5,2002,Georgia Tech,188,81,true
+Shareef Abdur-Rahim,Atlanta Hawks,East,1995-10-08,F,6'9,225,25,1996,5,2002,California,206,102,true
+Tim Duncan,San Antonio Spurs,West,2021-01-23,FC,6'11,250,25,1997,4,2002,Wake Forest,211,113,true
+Allen Iverson,Philadelphia Sixers,East,2010-06-18,G,6'0,165,26,1996,5,2002,Georgetown,183,74,false
+Kevin Garnett,Minnesota Timberwolves,West,2002-01-30,PF,6'11,240,25,1995,6,2002,Farragut Career Academy (Illinois),211,108,true
+Vince Carter,Toronto Raptors,East,2004-04-10,SF,6'6,220,25,1998,3,2002,North Carolina,198,99,false
+Tim Duncan,San Antonio Spurs,West,2008-06-07,FC,6'11,250,25,1997,4,2002,Wake Forest,211,113,false
+Ray Allen,Milwaukee Bucks,East,1998-08-09,SG,6'5,205,26,1996,5,2002,Connecticut,196,93,false
+Kobe Bryant,Los Angeles Lakers,West,2002-07-19,SG,6'6,212,23,1996,5,2002,Lower Merion High School (Pennsylvania),198,96,false
